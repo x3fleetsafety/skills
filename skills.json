@@ -1,7 +1,7 @@
 {
   "name": "x3fleetsafety/skills",
   "description": "Open-source Agent Skills for DOT / FMCSA compliance",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "license": "Apache-2.0",
   "author": "X3 Fleet Safety <joshua@x3fleetsafety.com>",
   "homepage": "https://x3fleetsafety.com",
@@ -23,6 +23,11 @@
       "description": "Use this skill when the user asks about the agricultural exemption from Hours of Service (HOS) rules under 49 CFR 395.1(k) \u2014 what qualifies as agricultural commodity, the 150-air-mile radius rule, state-declared planting/harvest seasons, li\u2026"
     },
     {
+      "name": "bobtail-deadhead-loaded-distinctions",
+      "path": "skills/bobtail-deadhead-loaded-distinctions/SKILL.md",
+      "description": "Use this skill when the user asks about trucking terminology \u2014 bobtail vs deadhead vs loaded vs empty trailer \u2014 and the insurance, weight, and fuel-tax implications of each. Covers bobtail insurance (also called non-trucking liability), how\u2026"
+    },
+    {
       "name": "cargo-securement",
       "path": "skills/cargo-securement/SKILL.md",
       "description": "Use this skill when the user asks about cargo securement requirements under 49 CFR 393 Subpart I \u2014 Working Load Limit (WLL), tiedown counts, tiedown types, commodity-specific securement rules (lumber, metal coils, paper rolls, concrete pipe\u2026"
@@ -33,6 +38,11 @@
       "description": "Use this skill when the user asks about CDL classes (A, B, C), endorsements (H, N, P, S, T, X), required for hazmat / passenger / school bus / tank / triple-trailer operations, what each class is permitted to operate, the TSA Security Threa\u2026"
     },
     {
+      "name": "crash-preventability-determination",
+      "path": "skills/crash-preventability-determination/SKILL.md",
+      "description": "Use this skill when the user asks about FMCSA's Crash Preventability Determination Program (CPDP) \u2014 how to dispute that a crash was non-preventable, eligible crash types, evidence requirements, how preventability findings affect SMS scoring\u2026"
+    },
+    {
       "name": "csa-bsi-scoring",
       "path": "skills/csa-bsi-scoring/SKILL.md",
       "description": "Use this skill when the user asks about FMCSA Compliance Safety Accountability (CSA) program scoring \u2014 the seven BASIC categories, BASIC Severity Indicator (BSI), peer percentiles, intervention thresholds, how violations age out, SMS Method\u2026"
@@ -41,6 +51,11 @@
       "name": "dataq-disputes",
       "path": "skills/dataq-disputes/SKILL.md",
       "description": "Use this skill when the user asks about DataQ \u2014 FMCSA's data review system at dataqs.fmcsa.dot.gov \u2014 for disputing inspection violations, crash records, or other entries that appear in a carrier's CSA / SMS score. Covers Request for Data Re\u2026"
+    },
+    {
+      "name": "dispatch-software-and-load-boards",
+      "path": "skills/dispatch-software-and-load-boards/SKILL.md",
+      "description": "Use this skill when the user asks about trucking dispatch software \u2014 McLeod, TMW (Trimble), Tailwind, Truckbase, AscendTMS \u2014 vs load boards \u2014 DAT, Truckstop, 123Loadboard, Convoy, Uber Freight. Covers the workflow (find load, book, dispatch\u2026"
     },
     {
       "name": "dot-audit-readiness",
@@ -76,6 +91,11 @@
       "name": "eld-mandate-compliance",
       "path": "skills/eld-mandate-compliance/SKILL.md",
       "description": "Use this skill when the user asks about Electronic Logging Device (ELD) compliance under 49 CFR 395.20-38 \u2014 ELD mandate, AOBRD vs ELD transition, ELD exemptions, ELD malfunctions, 8-day paper backup, ELD certification on FMCSA registered li\u2026"
+    },
+    {
+      "name": "emergency-equipment-on-cmv",
+      "path": "skills/emergency-equipment-on-cmv/SKILL.md",
+      "description": "Use this skill when the user asks what emergency equipment a CMV must carry under 49 CFR 393.95 \u2014 reflectorized triangles, flares, fire extinguishers, spare fuses, exceptions for buses/passenger CMVs, where to mount/store equipment, and wha\u2026"
     },
     {
       "name": "fleet-safety-scorecard-design",
@@ -143,6 +163,16 @@
       "description": "Use this skill when the user asks the cost of pulling a Motor Vehicle Record (MVR) in a specific state, or wants to compare MVR fees across multiple states, or is budgeting annual compliance costs for a multi-state fleet. Reference the cano\u2026"
     },
     {
+      "name": "state-trucking-taxes",
+      "path": "skills/state-trucking-taxes/SKILL.md",
+      "description": "Use this skill when the user asks about state-specific trucking taxes BEYOND IFTA \u2014 NY Highway Use Tax (HUT), KY Kentucky Intrastate Tax (KIT), Oregon Weight-Mile Tax, New Mexico Weight-Distance Tax, Connecticut Highway Use Fee, or other st\u2026"
+    },
+    {
+      "name": "trucking-insurance-101",
+      "path": "skills/trucking-insurance-101/SKILL.md",
+      "description": "Use this skill when the user asks about trucking insurance \u2014 types of coverage (commercial auto, cargo, occupational accident, workers comp, bobtail/non-trucking, MCS-90 endorsement), federal minimums (49 CFR 387), what each covers, owner-o\u2026"
+    },
+    {
       "name": "vehicle-inspection-dvir",
       "path": "skills/vehicle-inspection-dvir/SKILL.md",
       "description": "Use this skill when the user asks about CMV vehicle inspections under 49 CFR 396 \u2014 DVIRs (Driver Vehicle Inspection Reports), pre-trip inspections, post-trip inspections, periodic inspections, annual inspections, who can perform inspections\u2026"
@@ -151,6 +181,11 @@
       "name": "vehicle-maintenance-records",
       "path": "skills/vehicle-maintenance-records/SKILL.md",
       "description": "Use this skill when the user asks about CMV maintenance program requirements under 49 CFR 396.3 \u2014 what records must be kept, retention periods (12-18 months on vehicle file + 1 year after disposal), what counts as systematic inspection/repa\u2026"
+    },
+    {
+      "name": "weigh-station-bypass-services",
+      "path": "skills/weigh-station-bypass-services/SKILL.md",
+      "description": "Use this skill when the user asks about weigh-station bypass services \u2014 Drivewyze, PrePass, BestPass, NORPASS, OOIDA toll savings \u2014 how they work, eligibility criteria, costs, and how they tie into CSA scores. Reference each provider's cove\u2026"
     }
   ]
 }

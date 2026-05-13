@@ -79,6 +79,17 @@ Specialty + reference skills for deeper operations.
 - [**roadside-inspection-levels**](./skills/roadside-inspection-levels/SKILL.md) — CVSA Standard Levels I-VIII. What each level inspects, CVSA decal eligibility, driver coaching for roadside.
 - [**cdl-classes-and-endorsements**](./skills/cdl-classes-and-endorsements/SKILL.md) — 49 CFR 383. Classes A/B/C, endorsements H/N/P/S/T/X, TSA STA for hazmat, ELDT requirements.
 
+### Tier 5 — Operations & business (new in v0.4.0)
+The business side of running a fleet: insurance, taxes, dispatch tools, crash disputes, bypass services.
+
+- [**crash-preventability-determination**](./skills/crash-preventability-determination/SKILL.md) — FMCSA CPDP program. 16 eligible crash types, evidence requirements, how successful "non-preventable" findings exclude crashes from Crash Indicator BASIC.
+- [**state-trucking-taxes**](./skills/state-trucking-taxes/SKILL.md) — NY HUT, KY KIT, OR Weight-Mile, NM Weight-Distance, CT Highway Use Fee. Quarterly + monthly filings beyond IFTA.
+- [**emergency-equipment-on-cmv**](./skills/emergency-equipment-on-cmv/SKILL.md) — 49 CFR 393.95. Reflective triangles, fire extinguisher, spare fuses, passenger-CMV extras, triangle placement after breakdown.
+- [**bobtail-deadhead-loaded-distinctions**](./skills/bobtail-deadhead-loaded-distinctions/SKILL.md) — Trucking terminology + insurance/tax/pay implications. Bobtail / NTL insurance. Deadhead vs empty trailer.
+- [**weigh-station-bypass-services**](./skills/weigh-station-bypass-services/SKILL.md) — Drivewyze, PrePass, BestPass, NORPASS. How bypass works, costs, eligibility criteria, ROI calculation.
+- [**dispatch-software-and-load-boards**](./skills/dispatch-software-and-load-boards/SKILL.md) — DAT vs Truckstop vs Convoy/Uber Freight; McLeod vs TMW vs Tailwind vs Truckbase. Small-fleet vs large-fleet stack.
+- [**trucking-insurance-101**](./skills/trucking-insurance-101/SKILL.md) — 8 layers of coverage (commercial auto, cargo, GL, workers comp, OAI, NTL, physical damage, MCS-90). Federal minimums per 49 CFR 387.
+
 ## Coverage
 
 | Area | Skill | CFR cite |
