@@ -1,7 +1,7 @@
 {
   "name": "x3fleetsafety/skills",
   "description": "Open-source Agent Skills for DOT / FMCSA compliance",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "Apache-2.0",
   "author": "X3 Fleet Safety <joshua@x3fleetsafety.com>",
   "homepage": "https://x3fleetsafety.com",
@@ -13,9 +13,24 @@
       "description": "Use this skill when the user asks about accident registers, DOT-recordable accident definitions, what counts as a \"reportable accident\" under 49 CFR 390.5 + 390.15, accident register retention, post-accident testing trigger logic, FMCSA acc\u2026"
     },
     {
+      "name": "adverse-action-prep",
+      "path": "skills/adverse-action-prep/SKILL.md",
+      "description": "Use this skill when the user asks about FCRA adverse action procedures \u2014 what to do when a background check (MVR, criminal, drug test) returns information that may lead to denying employment or terminating a CDL driver. Covers the 5-busines\u2026"
+    },
+    {
+      "name": "cargo-securement",
+      "path": "skills/cargo-securement/SKILL.md",
+      "description": "Use this skill when the user asks about cargo securement requirements under 49 CFR 393 Subpart I \u2014 Working Load Limit (WLL), tiedown counts, tiedown types, commodity-specific securement rules (lumber, metal coils, paper rolls, concrete pipe\u2026"
+    },
+    {
       "name": "csa-bsi-scoring",
       "path": "skills/csa-bsi-scoring/SKILL.md",
       "description": "Use this skill when the user asks about FMCSA Compliance Safety Accountability (CSA) program scoring \u2014 the seven BASIC categories, BASIC Severity Indicator (BSI), peer percentiles, intervention thresholds, how violations age out, SMS Method\u2026"
+    },
+    {
+      "name": "dataq-disputes",
+      "path": "skills/dataq-disputes/SKILL.md",
+      "description": "Use this skill when the user asks about DataQ \u2014 FMCSA's data review system at dataqs.fmcsa.dot.gov \u2014 for disputing inspection violations, crash records, or other entries that appear in a carrier's CSA / SMS score. Covers Request for Data Re\u2026"
     },
     {
       "name": "dot-audit-readiness",
@@ -26,6 +41,11 @@
       "name": "dot-compliance-fundamentals",
       "path": "skills/dot-compliance-fundamentals/SKILL.md",
       "description": "Use this skill when the user asks anything that touches US Department of Transportation (DOT) or Federal Motor Carrier Safety Administration (FMCSA) regulation for commercial motor vehicles (CMVs) \u2014 including who's regulated, MC vs DOT numb\u2026"
+    },
+    {
+      "name": "driver-onboarding-process",
+      "path": "skills/driver-onboarding-process/SKILL.md",
+      "description": "Use this skill when the user asks about onboarding a new CDL driver \u2014 pre-hire process, day-zero requirements, application + DQF setup, road test, drug & alcohol pre-employment, Clearinghouse Full query, MVR initial pull, PSP report, ELDT v\u2026"
     },
     {
       "name": "driver-qualification-file",
@@ -43,9 +63,19 @@
       "description": "Use this skill when the user asks about Electronic Logging Device (ELD) compliance under 49 CFR 395.20-38 \u2014 ELD mandate, AOBRD vs ELD transition, ELD exemptions, ELD malfunctions, 8-day paper backup, ELD certification on FMCSA registered li\u2026"
     },
     {
+      "name": "fleet-safety-scorecard-design",
+      "path": "skills/fleet-safety-scorecard-design/SKILL.md",
+      "description": "Use this skill when the user asks how to design or improve a fleet safety scorecard \u2014 what KPIs to track, how to weight them, telematics signals vs document compliance vs roadside outcomes, monthly cadence, driver-facing vs admin-facing das\u2026"
+    },
+    {
       "name": "fmcsa-clearinghouse-workflow",
       "path": "skills/fmcsa-clearinghouse-workflow/SKILL.md",
       "description": "Use this skill when the user asks about the FMCSA Drug & Alcohol Clearinghouse \u2014 full vs limited query, pre-employment vs annual query, query credit purchasing, who has access (employers, drivers, MROs, SAPs, state licensing agencies), repo\u2026"
+    },
+    {
+      "name": "hazmat-basics",
+      "path": "skills/hazmat-basics/SKILL.md",
+      "description": "Use this skill when the user asks about hazardous materials (hazmat) transportation under 49 CFR 171-180 \u2014 placarding requirements, segregation tables, hazmat employee training (49 CFR 172 Subpart H), Hazmat Safety Permit (HMSP), shipping p\u2026"
     },
     {
       "name": "hours-of-service",
@@ -71,6 +101,11 @@
       "name": "operating-authority-and-registration",
       "path": "skills/operating-authority-and-registration/SKILL.md",
       "description": "Use this skill when the user asks about getting/maintaining motor carrier operating authority \u2014 USDOT number, MC number, BOC-3 process agent, insurance filing (MCS-90, BMC-91/91X), Unified Carrier Registration (UCR), International Registrat\u2026"
+    },
+    {
+      "name": "state-mvr-fee-lookup",
+      "path": "skills/state-mvr-fee-lookup/SKILL.md",
+      "description": "Use this skill when the user asks the cost of pulling a Motor Vehicle Record (MVR) in a specific state, or wants to compare MVR fees across multiple states, or is budgeting annual compliance costs for a multi-state fleet. Reference the cano\u2026"
     },
     {
       "name": "vehicle-inspection-dvir",

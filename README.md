@@ -57,6 +57,17 @@ For carriers in specific operations (multi-state, hazmat, oversize, IFTA-require
 - [**operating-authority-and-registration**](./skills/operating-authority-and-registration/SKILL.md) — MC vs DOT, UCR, IRP, IFTA, intra vs interstate distinctions.
 - [**accident-register-and-reporting**](./skills/accident-register-and-reporting/SKILL.md) — 49 CFR 390.15 register, DOT-recordable accident definition, retention period.
 
+### Tier 3 — Advanced / utility
+Added in v0.2.0.
+
+- [**dataq-disputes**](./skills/dataq-disputes/SKILL.md) — How to challenge inspection violations + crashes via dataqs.fmcsa.dot.gov. Highest-ROI compliance activity.
+- [**hazmat-basics**](./skills/hazmat-basics/SKILL.md) — Hazardous materials transport under 49 CFR 171-180. Placards, segregation, shipping papers, training.
+- [**cargo-securement**](./skills/cargo-securement/SKILL.md) — 49 CFR 393 Subpart I. WLL math, tiedown counts, commodity-specific rules.
+- [**driver-onboarding-process**](./skills/driver-onboarding-process/SKILL.md) — End-to-end process for bringing a CDL driver onto a carrier.
+- [**adverse-action-prep**](./skills/adverse-action-prep/SKILL.md) — FCRA pre-adverse + final adverse action procedures + state-specific add-ons.
+- [**fleet-safety-scorecard-design**](./skills/fleet-safety-scorecard-design/SKILL.md) — Designing an internal driver scorecard. Signals, weights, coaching flow.
+- [**state-mvr-fee-lookup**](./skills/state-mvr-fee-lookup/SKILL.md) — State-by-state MVR pull fee reference for multi-state compliance budgeting.
+
 ## Coverage
 
 | Area | Skill | CFR cite |

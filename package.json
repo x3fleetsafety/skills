@@ -1,6 +1,6 @@
 {
   "name": "@x3fleetsafety/skills",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Open-source Agent Skills for DOT / FMCSA compliance — drop into any AI coding agent (Claude Code, Cursor, Cline, Cowork)",
   "license": "Apache-2.0",
   "homepage": "https://github.com/x3fleetsafety/skills",
