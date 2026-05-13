@@ -1,7 +1,7 @@
 {
   "name": "x3fleetsafety/skills",
   "description": "Open-source Agent Skills for DOT / FMCSA compliance",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "license": "Apache-2.0",
   "author": "X3 Fleet Safety <joshua@x3fleetsafety.com>",
   "homepage": "https://x3fleetsafety.com",
@@ -18,9 +18,19 @@
       "description": "Use this skill when the user asks about FCRA adverse action procedures \u2014 what to do when a background check (MVR, criminal, drug test) returns information that may lead to denying employment or terminating a CDL driver. Covers the 5-busines\u2026"
     },
     {
+      "name": "agricultural-exemption",
+      "path": "skills/agricultural-exemption/SKILL.md",
+      "description": "Use this skill when the user asks about the agricultural exemption from Hours of Service (HOS) rules under 49 CFR 395.1(k) \u2014 what qualifies as agricultural commodity, the 150-air-mile radius rule, state-declared planting/harvest seasons, li\u2026"
+    },
+    {
       "name": "cargo-securement",
       "path": "skills/cargo-securement/SKILL.md",
       "description": "Use this skill when the user asks about cargo securement requirements under 49 CFR 393 Subpart I \u2014 Working Load Limit (WLL), tiedown counts, tiedown types, commodity-specific securement rules (lumber, metal coils, paper rolls, concrete pipe\u2026"
+    },
+    {
+      "name": "cdl-classes-and-endorsements",
+      "path": "skills/cdl-classes-and-endorsements/SKILL.md",
+      "description": "Use this skill when the user asks about CDL classes (A, B, C), endorsements (H, N, P, S, T, X), required for hazmat / passenger / school bus / tank / triple-trailer operations, what each class is permitted to operate, the TSA Security Threa\u2026"
     },
     {
       "name": "csa-bsi-scoring",
@@ -41,6 +51,11 @@
       "name": "dot-compliance-fundamentals",
       "path": "skills/dot-compliance-fundamentals/SKILL.md",
       "description": "Use this skill when the user asks anything that touches US Department of Transportation (DOT) or Federal Motor Carrier Safety Administration (FMCSA) regulation for commercial motor vehicles (CMVs) \u2014 including who's regulated, MC vs DOT numb\u2026"
+    },
+    {
+      "name": "dot-physical-exam-decoder",
+      "path": "skills/dot-physical-exam-decoder/SKILL.md",
+      "description": "Use this skill when the user asks how to interpret a DOT medical examiner's findings \u2014 what restrictions mean (corrective lenses, hearing aid, no insulin, etc.), what conditions trigger short-term vs 24-month certificates, vision/hearing th\u2026"
     },
     {
       "name": "driver-onboarding-process",
@@ -88,6 +103,11 @@
       "description": "Use this skill when the user asks about International Fuel Tax Agreement (IFTA) compliance \u2014 quarterly returns, jurisdiction reporting, fuel + miles reconciliation, IFTA-100/101 forms, base jurisdiction selection, IFTA license + decals, rec\u2026"
     },
     {
+      "name": "intrastate-vs-interstate-decoder",
+      "path": "skills/intrastate-vs-interstate-decoder/SKILL.md",
+      "description": "Use this skill when the user asks how to determine whether a CMV operation is interstate vs intrastate, why it matters (federal vs state rules apply), the \"continuation of journey\" rule, state-specific intrastate exemptions, and what happen\u2026"
+    },
+    {
       "name": "medical-certification",
       "path": "skills/medical-certification/SKILL.md",
       "description": "Use this skill when the user asks about CDL driver medical certification \u2014 49 CFR 391.41-49 medical qualifications, medical examiner's certificate (Long Form 5876 + Short Form 5875), National Registry of Certified Medical Examiners (NRCME),\u2026"
@@ -98,9 +118,24 @@
       "description": "Use this skill when the user asks about Motor Vehicle Records (MVRs), 49 CFR 391.25 annual MVR review, continuous MVR monitoring services (SambaSafety, Foley, etc.), state MVR fees, what to look for on an MVR, CDLIS (Commercial Driver Licen\u2026"
     },
     {
+      "name": "new-entrant-safety-audit-prep",
+      "path": "skills/new-entrant-safety-audit-prep/SKILL.md",
+      "description": "Use this skill when the user asks specifically about preparing for the New Entrant Safety Audit (NESA) under 49 CFR 385 Subpart D \u2014 different from a Compliance Review. Covers what auditors look at, the 18-month window, automatic failure con\u2026"
+    },
+    {
       "name": "operating-authority-and-registration",
       "path": "skills/operating-authority-and-registration/SKILL.md",
       "description": "Use this skill when the user asks about getting/maintaining motor carrier operating authority \u2014 USDOT number, MC number, BOC-3 process agent, insurance filing (MCS-90, BMC-91/91X), Unified Carrier Registration (UCR), International Registrat\u2026"
+    },
+    {
+      "name": "passenger-carrier-specifics",
+      "path": "skills/passenger-carrier-specifics/SKILL.md",
+      "description": "Use this skill when the user asks about passenger-carrying CMVs \u2014 buses, motorcoaches, charter operations, school buses, limousines, shuttle services. Covers different HOS rules (10-hour driving / 15-hour on-duty / no 34-restart), Class C C\u2026"
+    },
+    {
+      "name": "roadside-inspection-levels",
+      "path": "skills/roadside-inspection-levels/SKILL.md",
+      "description": "Use this skill when the user asks about CMV roadside inspection levels (Level I through Level VIII), what each level inspects, average inspection times, CVSA decal eligibility, what triggers a level upgrade, and how to coach drivers through\u2026"
     },
     {
       "name": "state-mvr-fee-lookup",

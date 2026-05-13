@@ -68,6 +68,17 @@ Added in v0.2.0.
 - [**fleet-safety-scorecard-design**](./skills/fleet-safety-scorecard-design/SKILL.md) — Designing an internal driver scorecard. Signals, weights, coaching flow.
 - [**state-mvr-fee-lookup**](./skills/state-mvr-fee-lookup/SKILL.md) — State-by-state MVR pull fee reference for multi-state compliance budgeting.
 
+### Tier 4 — Advanced (new in v0.3.0)
+Specialty + reference skills for deeper operations.
+
+- [**agricultural-exemption**](./skills/agricultural-exemption/SKILL.md) — 49 CFR 395.1(k). State-declared planting/harvest seasons, 150-air-mile radius, what counts as ag commodity.
+- [**passenger-carrier-specifics**](./skills/passenger-carrier-specifics/SKILL.md) — 49 CFR 395.5 + 387.33. 10-hour driving / 15-hour on-duty / no 34-restart, $5M insurance, BMC-32 filing, ADA accessibility.
+- [**new-entrant-safety-audit-prep**](./skills/new-entrant-safety-audit-prep/SKILL.md) — 49 CFR 385 Subpart D. Specific NESA prep, automatic failure conditions, 60-day remediation, distinct from compliance review.
+- [**intrastate-vs-interstate-decoder**](./skills/intrastate-vs-interstate-decoder/SKILL.md) — 49 CFR 390.5. The "continuation of journey" rule, state-specific quirks, what changes when crossing the line.
+- [**dot-physical-exam-decoder**](./skills/dot-physical-exam-decoder/SKILL.md) — 49 CFR 391.41-49. Restriction code decoder (B, C, E, F, G, H, K, etc.), BP categories, vision/hearing thresholds, sleep apnea screening, diabetes exemption.
+- [**roadside-inspection-levels**](./skills/roadside-inspection-levels/SKILL.md) — CVSA Standard Levels I-VIII. What each level inspects, CVSA decal eligibility, driver coaching for roadside.
+- [**cdl-classes-and-endorsements**](./skills/cdl-classes-and-endorsements/SKILL.md) — 49 CFR 383. Classes A/B/C, endorsements H/N/P/S/T/X, TSA STA for hazmat, ELDT requirements.
+
 ## Coverage
 
 | Area | Skill | CFR cite |
