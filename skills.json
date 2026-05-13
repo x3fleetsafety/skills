@@ -1,12 +1,17 @@
 {
   "name": "x3fleetsafety/skills",
   "description": "Open-source Agent Skills for DOT / FMCSA compliance + fleet operations",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "license": "Apache-2.0",
   "author": "X3 Fleet Safety <joshua@x3fleetsafety.com>",
   "homepage": "https://x3fleetsafety.com",
   "repository": "https://github.com/x3fleetsafety/skills",
   "skills": [
+    {
+      "name": "accident-claims-handling",
+      "path": "skills/accident-claims-handling/SKILL.md",
+      "description": "Use this skill when the user asks about accident claims management \u2014 first-notice-of-loss procedures, working with insurance adjusters, claim severity classification, subrogation, claim closure timelines, and how to influence claim outcomes\u2026"
+    },
     {
       "name": "accident-investigation-playbook",
       "path": "skills/accident-investigation-playbook/SKILL.md",
@@ -103,6 +108,16 @@
       "description": "Use this skill when the user asks how to interpret a DOT medical examiner's findings \u2014 what restrictions mean (corrective lenses, hearing aid, no insulin, etc.), what conditions trigger short-term vs 24-month certificates, vision/hearing th\u2026"
     },
     {
+      "name": "driver-discipline-and-progressive-correction",
+      "path": "skills/driver-discipline-and-progressive-correction/SKILL.md",
+      "description": "Use this skill when the user asks about driver discipline \u2014 when to coach vs warn vs suspend vs terminate, progressive discipline frameworks, at-will employment in trucking, documenting violations, separating \"willful violation\" from \"human\u2026"
+    },
+    {
+      "name": "driver-fitness-for-duty",
+      "path": "skills/driver-fitness-for-duty/SKILL.md",
+      "description": "Use this skill when the user asks about driver fitness-for-duty programs \u2014 pre-trip readiness assessment, recognizing impairment from drugs/alcohol/medication/fatigue/mental health, refusing assignments when unfit, supervisor training on fi\u2026"
+    },
+    {
       "name": "driver-leasing-arrangements",
       "path": "skills/driver-leasing-arrangements/SKILL.md",
       "description": "Use this skill when the user asks about carrier-driver relationships \u2014 Independent Contractor (IC / 1099) vs Employee (W-2), Owner-Operator lease agreements, the AB5 California law, the DOL 2024 IC test, lease-purchase programs from the car\u2026"
@@ -146,6 +161,16 @@
       "name": "emergency-equipment-on-cmv",
       "path": "skills/emergency-equipment-on-cmv/SKILL.md",
       "description": "Use this skill when the user asks what emergency equipment a CMV must carry under 49 CFR 393.95 \u2014 reflectorized triangles, flares, fire extinguishers, spare fuses, exceptions for buses/passenger CMVs, where to mount/store equipment, and wha\u2026"
+    },
+    {
+      "name": "ergonomics-of-cmv-operation",
+      "path": "skills/ergonomics-of-cmv-operation/SKILL.md",
+      "description": "Use this skill when the user asks about driver ergonomics \u2014 back/neck/shoulder injury prevention, seat adjustment + lumbar support, entering and exiting cab safely, load handling techniques, vibration reduction, stretching protocols, and ho\u2026"
+    },
+    {
+      "name": "fatigue-management-and-night-driving",
+      "path": "skills/fatigue-management-and-night-driving/SKILL.md",
+      "description": "Use this skill when the user asks about driver fatigue management \u2014 circadian rhythm impact on driving, recognizing fatigue, fatigue risk management programs (FRMS), night driving safety, microsleep recognition, drowsiness detection technol\u2026"
     },
     {
       "name": "fleet-safety-scorecard-design",
@@ -258,6 +283,11 @@
       "description": "Use this skill when the user asks about CMV roadside inspection levels (Level I through Level VIII), what each level inspects, average inspection times, CVSA decal eligibility, what triggers a level upgrade, and how to coach drivers through\u2026"
     },
     {
+      "name": "safety-culture-and-management",
+      "path": "skills/safety-culture-and-management/SKILL.md",
+      "description": "Use this skill when the user asks how to build, measure, or improve safety culture in a motor carrier \u2014 leading vs lagging safety indicators, blame-free reporting, near-miss programs, safety committee structure, monthly safety meetings, ATA\u2026"
+    },
+    {
       "name": "state-mvr-fee-lookup",
       "path": "skills/state-mvr-fee-lookup/SKILL.md",
       "description": "Use this skill when the user asks the cost of pulling a Motor Vehicle Record (MVR) in a specific state, or wants to compare MVR fees across multiple states, or is budgeting annual compliance costs for a multi-state fleet. Reference the cano\u2026"
@@ -296,6 +326,11 @@
       "name": "weigh-station-bypass-services",
       "path": "skills/weigh-station-bypass-services/SKILL.md",
       "description": "Use this skill when the user asks about weigh-station bypass services \u2014 Drivewyze, PrePass, BestPass, NORPASS, OOIDA toll savings \u2014 how they work, eligibility criteria, costs, and how they tie into CSA scores. Reference each provider's cove\u2026"
+    },
+    {
+      "name": "workers-comp-for-trucking",
+      "path": "skills/workers-comp-for-trucking/SKILL.md",
+      "description": "Use this skill when the user asks about workers compensation for trucking \u2014 required by state law, classification of drivers, premium calculation (rate \u00d7 experience modifier \u00d7 payroll), Common Claim types in trucking, returning injured driv\u2026"
     }
   ]
 }

@@ -124,6 +124,17 @@ The corporate side of trucking: investigations, M&A, accommodation, recruiting, 
 - [**ada-employment-for-drivers**](./skills/ada-employment-for-drivers/SKILL.md) — ADA + DOT medical interaction, essential functions, accommodation examples, drug + alcohol carve-outs.
 - [**recruiting-and-driver-acquisition**](./skills/recruiting-and-driver-acquisition/SKILL.md) — Sourcing channels, application screening, signing + retention bonuses, ambassador programs.
 
+### Tier 9 — Safety culture + people management (new in v0.8.0)
+Safety culture maturity, accident claims, workers comp, discipline, fatigue, fitness-for-duty, ergonomics.
+
+- [**safety-culture-and-management**](./skills/safety-culture-and-management/SKILL.md) — 5 maturity levels (Pathological → Generative), leading vs lagging indicators, near-miss reporting, blame-free culture.
+- [**accident-claims-handling**](./skills/accident-claims-handling/SKILL.md) — FNOL, claim tiers, subrogation, defense counsel coordination, EMR + premium impact.
+- [**workers-comp-for-trucking**](./skills/workers-comp-for-trucking/SKILL.md) — NCCI trucking codes, Experience Modifier (EMR), return-to-work programs, premium reduction strategies.
+- [**driver-discipline-and-progressive-correction**](./skills/driver-discipline-and-progressive-correction/SKILL.md) — Coaching → warning → suspension → termination framework, willful vs human error, at-will employment.
+- [**fatigue-management-and-night-driving**](./skills/fatigue-management-and-night-driving/SKILL.md) — Circadian rhythm, microsleeps, drowsiness detection technology, Fatigue Risk Management Systems (FRMS).
+- [**driver-fitness-for-duty**](./skills/driver-fitness-for-duty/SKILL.md) — Pre-trip readiness assessment, 4 sources of unfitness, reasonable-suspicion testing, supervisor observation framework.
+- [**ergonomics-of-cmv-operation**](./skills/ergonomics-of-cmv-operation/SKILL.md) — Cab setup, 3-point rule for ingress/egress, lifting technique, vibration mitigation, stretching protocol.
+
 ## Coverage
 
 | Area | Skill | CFR cite |
