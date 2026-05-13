@@ -145,6 +145,43 @@ The commercial side of the carrier business: shipper relationships, pricing, mar
 - [**carrier-cybersecurity**](./skills/carrier-cybersecurity/SKILL.md) — BEC, ransomware, ELD security, vendor risk, incident response, cyber insurance.
 - [**carrier-pr-and-reputation-management**](./skills/carrier-pr-and-reputation-management/SKILL.md) — Crisis communication, social media + Glassdoor management, regulator + insurance perception.
 
+### Tier 11 — Driver lifecycle & operations (new in v0.10.0)
+Driver economics, equipment specs, fuel and tire programs, seasonal ops, telematics platforms, mental health, and customer RFP response.
+
+- [**owner-operator-vs-company-driver-economics**](./skills/owner-operator-vs-company-driver-economics/SKILL.md) — Gross, net, take-home math for both paths.
+- [**team-driving-operations**](./skills/team-driving-operations/SKILL.md) — Productivity math, equipment, pay structure for team drivers.
+- [**dedicated-vs-otr-vs-regional-comparisons**](./skills/dedicated-vs-otr-vs-regional-comparisons/SKILL.md) — Which lane fits which driver/carrier profile.
+- [**owner-operator-tax-and-deductions**](./skills/owner-operator-tax-and-deductions/SKILL.md) — Per diem, depreciation, S-corp election, retirement plans.
+- [**fmcsa-driver-disqualification-and-reinstatement**](./skills/fmcsa-driver-disqualification-and-reinstatement/SKILL.md) — DQ triggers, SAP process, return-to-duty pathway (49 CFR 383.51, Part 40 Subpart O).
+- [**fuel-management-and-mpg-optimization**](./skills/fuel-management-and-mpg-optimization/SKILL.md) — MPG levers, FSC math, idle reduction, equipment ROI.
+- [**tire-management-program**](./skills/tire-management-program/SKILL.md) — CPM, retreading, blowout prevention, position management (49 CFR 393.75).
+- [**fleet-fuel-card-programs**](./skills/fleet-fuel-card-programs/SKILL.md) — Comdata vs EFS vs WEX, fraud control, IFTA data capture.
+- [**seasonal-operations-winter-summer**](./skills/seasonal-operations-winter-summer/SKILL.md) — Chain laws, anti-gel, frost laws, hurricane season.
+- [**tractor-spec-options**](./skills/tractor-spec-options/SKILL.md) — Engine, AMT, axle ratio, sleeper, fuel tanks, resale value.
+- [**trailer-types-and-specifications**](./skills/trailer-types-and-specifications/SKILL.md) — Dry van, reefer, flatbed, step-deck, tanker, lowboy.
+- [**samsara-vs-motive-vs-geotab-comparison**](./skills/samsara-vs-motive-vs-geotab-comparison/SKILL.md) — ELD/telematics vendor selection.
+- [**driver-mobile-apps-comparison**](./skills/driver-mobile-apps-comparison/SKILL.md) — Load boards, navigation, parking, per diem apps.
+- [**trucker-mental-health-resources**](./skills/trucker-mental-health-resources/SKILL.md) — Crisis lines, EAP design, sleep apnea, isolation.
+- [**customer-rfp-response-process**](./skills/customer-rfp-response-process/SKILL.md) — Bid workflow, lane analysis, pricing strategy, EDI requirements.
+
+### Tier 12 — Master operations (new in v1.0.0 — the 100-skill milestone)
+The operating layer that separates great carriers from average ones: financial modeling, CPM mastery, coaching culture, replacement cycles, regulatory deep-dives, and forward-looking tech.
+
+- [**fleet-financial-modeling-and-budgeting**](./skills/fleet-financial-modeling-and-budgeting/SKILL.md) — Annual budget, scenario plan, P&L model.
+- [**carrier-cost-per-mile-modeling**](./skills/carrier-cost-per-mile-modeling/SKILL.md) — CPM calculation, lane profitability, driver-level rollup.
+- [**lease-vs-buy-tractor-decision**](./skills/lease-vs-buy-tractor-decision/SKILL.md) — Cash vs loan vs TRAC vs full-service lease analysis.
+- [**operational-kpis-and-dashboards**](./skills/operational-kpis-and-dashboards/SKILL.md) — Daily/weekly/monthly/quarterly KPIs and targets.
+- [**driver-coaching-conversations**](./skills/driver-coaching-conversations/SKILL.md) — 4-step coaching framework, tone, documentation, escalation.
+- [**post-crash-driver-care-and-return-to-work**](./skills/post-crash-driver-care-and-return-to-work/SKILL.md) — Trauma response, phased return, retraining, retention.
+- [**load-planning-and-deadhead-minimization**](./skills/load-planning-and-deadhead-minimization/SKILL.md) — Loaded ratio, dedicated loops, lane balance, dispatcher discipline.
+- [**fleet-vehicle-replacement-cycle-planning**](./skills/fleet-vehicle-replacement-cycle-planning/SKILL.md) — TCO curves, optimal trade cycle, residual timing.
+- [**fmcsa-pre-employment-investigation-deep-dive**](./skills/fmcsa-pre-employment-investigation-deep-dive/SKILL.md) — 49 CFR 391.23 complete file build + audit checklist.
+- [**dispatcher-training-and-certification**](./skills/dispatcher-training-and-certification/SKILL.md) — 6-week dispatcher curriculum, certification, retention.
+- [**safety-meeting-agenda-templates**](./skills/safety-meeting-agenda-templates/SKILL.md) — Weekly/monthly/quarterly templates + 52-week topic library.
+- [**electric-truck-readiness**](./skills/electric-truck-readiness/SKILL.md) — Tesla Semi, eCascadia, charging, subsidies, TCO, ACT/ACF.
+- [**autonomous-truck-implications**](./skills/autonomous-truck-implications/SKILL.md) — Aurora/Kodiak/Daimler, hub-to-hub model, workforce, 10-year playbook.
+- [**carrier-disaster-recovery-and-bcp**](./skills/carrier-disaster-recovery-and-bcp/SKILL.md) — Cyber, terminal loss, key-person, customer/financial continuity.
+
 ## Coverage
 
 | Area | Skill | CFR cite |
