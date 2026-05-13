@@ -135,6 +135,16 @@ Safety culture maturity, accident claims, workers comp, discipline, fatigue, fit
 - [**driver-fitness-for-duty**](./skills/driver-fitness-for-duty/SKILL.md) — Pre-trip readiness assessment, 4 sources of unfitness, reasonable-suspicion testing, supervisor observation framework.
 - [**ergonomics-of-cmv-operation**](./skills/ergonomics-of-cmv-operation/SKILL.md) — Cab setup, 3-point rule for ingress/egress, lifting technique, vibration mitigation, stretching protocol.
 
+### Tier 10 — Commercial & cyber (new in v0.9.0)
+The commercial side of the carrier business: shipper relationships, pricing, marketing, cybersecurity, reputation.
+
+- [**shipper-relationship-management**](./skills/shipper-relationship-management/SKILL.md) — Moving from spot to dedicated, customer credit assessment, KPI reporting, when to fire a customer.
+- [**pricing-and-rate-negotiation**](./skills/pricing-and-rate-negotiation/SKILL.md) — Cost-plus pricing, DAT + Truckstop rate analytics, fuel surcharge math, walking-away leverage.
+- [**broker-vs-direct-shipper-economics**](./skills/broker-vs-direct-shipper-economics/SKILL.md) — Margin math (broker takes 15-25%), operational cost of going direct, hybrid model split, customer concentration risk.
+- [**carrier-marketing-and-customer-acquisition**](./skills/carrier-marketing-and-customer-acquisition/SKILL.md) — Sales channels, brand assets, content marketing, referral programs, ROI of each channel.
+- [**carrier-cybersecurity**](./skills/carrier-cybersecurity/SKILL.md) — BEC, ransomware, ELD security, vendor risk, incident response, cyber insurance.
+- [**carrier-pr-and-reputation-management**](./skills/carrier-pr-and-reputation-management/SKILL.md) — Crisis communication, social media + Glassdoor management, regulator + insurance perception.
+
 ## Coverage
 
 | Area | Skill | CFR cite |

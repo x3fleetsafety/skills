@@ -1,7 +1,7 @@
 {
   "name": "x3fleetsafety/skills",
   "description": "Open-source Agent Skills for DOT / FMCSA compliance + fleet operations",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "license": "Apache-2.0",
   "author": "X3 Fleet Safety <joshua@x3fleetsafety.com>",
   "homepage": "https://x3fleetsafety.com",
@@ -48,6 +48,11 @@
       "description": "Use this skill when the user asks the difference between a freight broker, freight forwarder, and motor carrier (49 CFR 371 + 373) \u2014 required authority for each, bond requirements (BMC-84 broker bond, BMC-85 freight forwarder bond), broker-\u2026"
     },
     {
+      "name": "broker-vs-direct-shipper-economics",
+      "path": "skills/broker-vs-direct-shipper-economics/SKILL.md",
+      "description": "Use this skill when the user asks the economic + operational tradeoffs of broker-mediated freight vs direct shipper relationships \u2014 margin difference, capital + operational cost, sales effort, payment terms, relationship investment, when to\u2026"
+    },
+    {
       "name": "canada-cross-border-operations",
       "path": "skills/canada-cross-border-operations/SKILL.md",
       "description": "Use this skill when the user asks about US-Canada cross-border CMV operations \u2014 CVOR (Commercial Vehicle Operator's Registration), NSC (National Safety Code), Ontario / Quebec / BC specific rules, US carrier obtaining Canadian operating aut\u2026"
@@ -58,9 +63,24 @@
       "description": "Use this skill when the user asks about cargo securement requirements under 49 CFR 393 Subpart I \u2014 Working Load Limit (WLL), tiedown counts, tiedown types, commodity-specific securement rules (lumber, metal coils, paper rolls, concrete pipe\u2026"
     },
     {
+      "name": "carrier-cybersecurity",
+      "path": "skills/carrier-cybersecurity/SKILL.md",
+      "description": "Use this skill when the user asks about cybersecurity for a trucking carrier \u2014 protecting ELD data, customer information, financial systems, EDI integrations, fleet telematics, ransomware risk, vendor / shipper data sharing, incident respon\u2026"
+    },
+    {
+      "name": "carrier-marketing-and-customer-acquisition",
+      "path": "skills/carrier-marketing-and-customer-acquisition/SKILL.md",
+      "description": "Use this skill when the user asks how to market a trucking company \u2014 sales channels, prospecting, website + brand, industry directories (D&B Hoovers, ZoomInfo), referral programs, content marketing, and ROI of different acquisition channels\u2026"
+    },
+    {
       "name": "carrier-mergers-and-acquisitions",
       "path": "skills/carrier-mergers-and-acquisitions/SKILL.md",
       "description": "Use this skill when the user asks about buying or selling a trucking company \u2014 valuation drivers (revenue, fleet age, CSA scores, customer concentration), asset purchase vs stock purchase, FMCSA authority transfer, due diligence checklist, \u2026"
+    },
+    {
+      "name": "carrier-pr-and-reputation-management",
+      "path": "skills/carrier-pr-and-reputation-management/SKILL.md",
+      "description": "Use this skill when the user asks how to manage a trucking carrier's public reputation \u2014 handling a major accident in the news, social media + Glassdoor + Indeed reviews, customer disputes that escalate, employee disputes, regulator percept\u2026"
     },
     {
       "name": "cdl-classes-and-endorsements",
@@ -268,6 +288,11 @@
       "description": "Use this skill when the user asks how to design or improve a Preventive Maintenance (PM) program for a fleet \u2014 mileage vs time intervals, A/B/C/D inspection levels, ATA standards, common PM tasks, scheduling software, cost tracking, and how\u2026"
     },
     {
+      "name": "pricing-and-rate-negotiation",
+      "path": "skills/pricing-and-rate-negotiation/SKILL.md",
+      "description": "Use this skill when the user asks about trucking rate negotiation \u2014 cost-plus pricing, market rate benchmarking via DAT/Truckstop, fuel surcharge math, how to negotiate with brokers/shippers, when to walk away, contract pricing vs spot rate\u2026"
+    },
+    {
       "name": "recruiting-and-driver-acquisition",
       "path": "skills/recruiting-and-driver-acquisition/SKILL.md",
       "description": "Use this skill when the user asks how to recruit CDL drivers \u2014 sourcing channels (CDL schools, job boards, military, returning citizens, owner-operator pools), application + screening process, signing bonus structures, recruitment marketing\u2026"
@@ -286,6 +311,11 @@
       "name": "safety-culture-and-management",
       "path": "skills/safety-culture-and-management/SKILL.md",
       "description": "Use this skill when the user asks how to build, measure, or improve safety culture in a motor carrier \u2014 leading vs lagging safety indicators, blame-free reporting, near-miss programs, safety committee structure, monthly safety meetings, ATA\u2026"
+    },
+    {
+      "name": "shipper-relationship-management",
+      "path": "skills/shipper-relationship-management/SKILL.md",
+      "description": "Use this skill when the user asks how to build + manage direct shipper relationships \u2014 moving from spot market to dedicated lanes, customer scoring + credit assessment, contract terms, dedicated capacity agreements, KPI reporting, and how t\u2026"
     },
     {
       "name": "state-mvr-fee-lookup",
