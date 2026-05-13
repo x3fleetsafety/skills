@@ -1,12 +1,17 @@
 {
   "name": "x3fleetsafety/skills",
-  "description": "Open-source Agent Skills for DOT / FMCSA compliance",
-  "version": "0.4.0",
+  "description": "Open-source Agent Skills for DOT / FMCSA compliance + fleet operations",
+  "version": "0.5.0",
   "license": "Apache-2.0",
   "author": "X3 Fleet Safety <joshua@x3fleetsafety.com>",
   "homepage": "https://x3fleetsafety.com",
   "repository": "https://github.com/x3fleetsafety/skills",
   "skills": [
+    {
+      "name": "accident-investigation-playbook",
+      "path": "skills/accident-investigation-playbook/SKILL.md",
+      "description": "Use this skill when the user asks how to investigate a CMV accident \u2014 what to do at the scene, the first 24 hours, evidence preservation, who to call, preventability determination, ELD data preservation, dash cam review, witness interviews,\u2026"
+    },
     {
       "name": "accident-register-and-reporting",
       "path": "skills/accident-register-and-reporting/SKILL.md",
@@ -26,6 +31,11 @@
       "name": "bobtail-deadhead-loaded-distinctions",
       "path": "skills/bobtail-deadhead-loaded-distinctions/SKILL.md",
       "description": "Use this skill when the user asks about trucking terminology \u2014 bobtail vs deadhead vs loaded vs empty trailer \u2014 and the insurance, weight, and fuel-tax implications of each. Covers bobtail insurance (also called non-trucking liability), how\u2026"
+    },
+    {
+      "name": "canada-cross-border-operations",
+      "path": "skills/canada-cross-border-operations/SKILL.md",
+      "description": "Use this skill when the user asks about US-Canada cross-border CMV operations \u2014 CVOR (Commercial Vehicle Operator's Registration), NSC (National Safety Code), Ontario / Quebec / BC specific rules, US carrier obtaining Canadian operating aut\u2026"
     },
     {
       "name": "cargo-securement",
@@ -78,9 +88,19 @@
       "description": "Use this skill when the user asks about onboarding a new CDL driver \u2014 pre-hire process, day-zero requirements, application + DQF setup, road test, drug & alcohol pre-employment, Clearinghouse Full query, MVR initial pull, PSP report, ELDT v\u2026"
     },
     {
+      "name": "driver-pay-models",
+      "path": "skills/driver-pay-models/SKILL.md",
+      "description": "Use this skill when the user asks how to pay CDL drivers \u2014 cents per mile (CPM), percentage of revenue, hourly, salary, sleeper-team rate, detention pay, driver-pay laws under FLSA (Fair Labor Standards Act), and how each model affects rete\u2026"
+    },
+    {
       "name": "driver-qualification-file",
       "path": "skills/driver-qualification-file/SKILL.md",
       "description": "Use this skill when the user asks about Driver Qualification Files (DQF) \u2014 what must be in a DQ file under 49 CFR 391, retention periods, what's required pre-hire vs ongoing, document expiration tracking, audit-readiness for driver files, c\u2026"
+    },
+    {
+      "name": "driver-wellness-and-retention",
+      "path": "skills/driver-wellness-and-retention/SKILL.md",
+      "description": "Use this skill when the user asks about CDL driver wellness, retention strategies, what causes driver turnover, common health issues (obesity, hypertension, sleep apnea, mental health), benefits packages, home-time policies, and how to buil\u2026"
     },
     {
       "name": "drug-and-alcohol-testing",
@@ -133,6 +153,11 @@
       "description": "Use this skill when the user asks about CDL driver medical certification \u2014 49 CFR 391.41-49 medical qualifications, medical examiner's certificate (Long Form 5876 + Short Form 5875), National Registry of Certified Medical Examiners (NRCME),\u2026"
     },
     {
+      "name": "mexico-cross-border-operations",
+      "path": "skills/mexico-cross-border-operations/SKILL.md",
+      "description": "Use this skill when the user asks about US-Mexico cross-border CMV operations \u2014 long-haul cross-border program, B-1 visas for Mexican drivers, FMCSA OP-1(MX) authority, US-Mexico border commercial zones, USMCA / NAFTA implications, customs \u2026"
+    },
+    {
       "name": "mvr-and-monitoring",
       "path": "skills/mvr-and-monitoring/SKILL.md",
       "description": "Use this skill when the user asks about Motor Vehicle Records (MVRs), 49 CFR 391.25 annual MVR review, continuous MVR monitoring services (SambaSafety, Foley, etc.), state MVR fees, what to look for on an MVR, CDLIS (Commercial Driver Licen\u2026"
@@ -153,6 +178,11 @@
       "description": "Use this skill when the user asks about passenger-carrying CMVs \u2014 buses, motorcoaches, charter operations, school buses, limousines, shuttle services. Covers different HOS rules (10-hour driving / 15-hour on-duty / no 34-restart), Class C C\u2026"
     },
     {
+      "name": "preventive-maintenance-program-design",
+      "path": "skills/preventive-maintenance-program-design/SKILL.md",
+      "description": "Use this skill when the user asks how to design or improve a Preventive Maintenance (PM) program for a fleet \u2014 mileage vs time intervals, A/B/C/D inspection levels, ATA standards, common PM tasks, scheduling software, cost tracking, and how\u2026"
+    },
+    {
       "name": "roadside-inspection-levels",
       "path": "skills/roadside-inspection-levels/SKILL.md",
       "description": "Use this skill when the user asks about CMV roadside inspection levels (Level I through Level VIII), what each level inspects, average inspection times, CVSA decal eligibility, what triggers a level upgrade, and how to coach drivers through\u2026"
@@ -166,6 +196,11 @@
       "name": "state-trucking-taxes",
       "path": "skills/state-trucking-taxes/SKILL.md",
       "description": "Use this skill when the user asks about state-specific trucking taxes BEYOND IFTA \u2014 NY Highway Use Tax (HUT), KY Kentucky Intrastate Tax (KIT), Oregon Weight-Mile Tax, New Mexico Weight-Distance Tax, Connecticut Highway Use Fee, or other st\u2026"
+    },
+    {
+      "name": "truck-financing-and-leasing",
+      "path": "skills/truck-financing-and-leasing/SKILL.md",
+      "description": "Use this skill when the user asks about truck purchase financing, leasing options, factoring, fuel surcharge math, lease-purchase agreements, the total-cost-of-ownership (TCO) comparison between buying + leasing, and how owner-operators fin\u2026"
     },
     {
       "name": "trucking-insurance-101",

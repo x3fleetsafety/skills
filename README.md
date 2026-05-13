@@ -90,6 +90,17 @@ The business side of running a fleet: insurance, taxes, dispatch tools, crash di
 - [**dispatch-software-and-load-boards**](./skills/dispatch-software-and-load-boards/SKILL.md) — DAT vs Truckstop vs Convoy/Uber Freight; McLeod vs TMW vs Tailwind vs Truckbase. Small-fleet vs large-fleet stack.
 - [**trucking-insurance-101**](./skills/trucking-insurance-101/SKILL.md) — 8 layers of coverage (commercial auto, cargo, GL, workers comp, OAI, NTL, physical damage, MCS-90). Federal minimums per 49 CFR 387.
 
+### Tier 6 — Cross-border, people & finance (new in v0.5.0)
+The deepest layer: international ops, driver pay, accident investigation, financing.
+
+- [**mexico-cross-border-operations**](./skills/mexico-cross-border-operations/SKILL.md) — Commercial Zone vs long-haul, OP-1(MX) authority, B-1 visas, C-TPAT, FAST, Mexican insurance specifics, USMCA.
+- [**canada-cross-border-operations**](./skills/canada-cross-border-operations/SKILL.md) — CVOR, NSC, province-specific rules, CBSA + eManifest, Canadian HOS (13/14 hours), TDG hazmat, FAST card.
+- [**driver-pay-models**](./skills/driver-pay-models/SKILL.md) — CPM, percentage, hourly, salary, hybrid + bonuses. FLSA Motor Carrier Exemption. California wage-law specifics.
+- [**preventive-maintenance-program-design**](./skills/preventive-maintenance-program-design/SKILL.md) — ATA A/B/C/D intervals, scheduling, documentation, in-house vs outsourced, cost benchmarks.
+- [**accident-investigation-playbook**](./skills/accident-investigation-playbook/SKILL.md) — Scene response through 30-day investigation. Evidence preservation, insurance + attorney coordination, learning culture.
+- [**truck-financing-and-leasing**](./skills/truck-financing-and-leasing/SKILL.md) — Conventional loan, TRAC lease, lease-purchase, factoring. Section 179 + Bonus Depreciation. Fuel surcharge math.
+- [**driver-wellness-and-retention**](./skills/driver-wellness-and-retention/SKILL.md) — Why drivers leave, wellness programs, home-time policies, detention pay, mental health, retention bonuses + onboarding.
+
 ## Coverage
 
 | Area | Skill | CFR cite |
