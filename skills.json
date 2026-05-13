@@ -1,0 +1,86 @@
+{
+  "name": "x3fleetsafety/skills",
+  "description": "Open-source Agent Skills for DOT / FMCSA compliance",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "author": "X3 Fleet Safety <joshua@x3fleetsafety.com>",
+  "homepage": "https://x3fleetsafety.com",
+  "repository": "https://github.com/x3fleetsafety/skills",
+  "skills": [
+    {
+      "name": "accident-register-and-reporting",
+      "path": "skills/accident-register-and-reporting/SKILL.md",
+      "description": "Use this skill when the user asks about accident registers, DOT-recordable accident definitions, what counts as a \"reportable accident\" under 49 CFR 390.5 + 390.15, accident register retention, post-accident testing trigger logic, FMCSA acc\u2026"
+    },
+    {
+      "name": "csa-bsi-scoring",
+      "path": "skills/csa-bsi-scoring/SKILL.md",
+      "description": "Use this skill when the user asks about FMCSA Compliance Safety Accountability (CSA) program scoring \u2014 the seven BASIC categories, BASIC Severity Indicator (BSI), peer percentiles, intervention thresholds, how violations age out, SMS Method\u2026"
+    },
+    {
+      "name": "dot-audit-readiness",
+      "path": "skills/dot-audit-readiness/SKILL.md",
+      "description": "Use this skill when the user asks about DOT audits, FMCSA compliance reviews, new entrant safety audits (NESA), focused investigations, what auditors actually ask for, audit document checklists, common audit failures, the audit ratings (Sat\u2026"
+    },
+    {
+      "name": "dot-compliance-fundamentals",
+      "path": "skills/dot-compliance-fundamentals/SKILL.md",
+      "description": "Use this skill when the user asks anything that touches US Department of Transportation (DOT) or Federal Motor Carrier Safety Administration (FMCSA) regulation for commercial motor vehicles (CMVs) \u2014 including who's regulated, MC vs DOT numb\u2026"
+    },
+    {
+      "name": "driver-qualification-file",
+      "path": "skills/driver-qualification-file/SKILL.md",
+      "description": "Use this skill when the user asks about Driver Qualification Files (DQF) \u2014 what must be in a DQ file under 49 CFR 391, retention periods, what's required pre-hire vs ongoing, document expiration tracking, audit-readiness for driver files, c\u2026"
+    },
+    {
+      "name": "drug-and-alcohol-testing",
+      "path": "skills/drug-and-alcohol-testing/SKILL.md",
+      "description": "Use this skill when the user asks about commercial driver drug & alcohol testing under 49 CFR 382 + 40 \u2014 the six testing reasons (pre-employment, random, post-accident, reasonable suspicion, return-to-duty, follow-up), MRO process, SAP/retu\u2026"
+    },
+    {
+      "name": "eld-mandate-compliance",
+      "path": "skills/eld-mandate-compliance/SKILL.md",
+      "description": "Use this skill when the user asks about Electronic Logging Device (ELD) compliance under 49 CFR 395.20-38 \u2014 ELD mandate, AOBRD vs ELD transition, ELD exemptions, ELD malfunctions, 8-day paper backup, ELD certification on FMCSA registered li\u2026"
+    },
+    {
+      "name": "fmcsa-clearinghouse-workflow",
+      "path": "skills/fmcsa-clearinghouse-workflow/SKILL.md",
+      "description": "Use this skill when the user asks about the FMCSA Drug & Alcohol Clearinghouse \u2014 full vs limited query, pre-employment vs annual query, query credit purchasing, who has access (employers, drivers, MROs, SAPs, state licensing agencies), repo\u2026"
+    },
+    {
+      "name": "hours-of-service",
+      "path": "skills/hours-of-service/SKILL.md",
+      "description": "Use this skill when the user asks about Hours of Service (HOS) rules under 49 CFR 395 \u2014 the 11-hour driving limit, 14-hour on-duty window, 60/70 hour rule, 30-minute break, 10-hour off-duty reset, 34-hour restart, sleeper berth provisions, \u2026"
+    },
+    {
+      "name": "ifta-quarterly-prep",
+      "path": "skills/ifta-quarterly-prep/SKILL.md",
+      "description": "Use this skill when the user asks about International Fuel Tax Agreement (IFTA) compliance \u2014 quarterly returns, jurisdiction reporting, fuel + miles reconciliation, IFTA-100/101 forms, base jurisdiction selection, IFTA license + decals, rec\u2026"
+    },
+    {
+      "name": "medical-certification",
+      "path": "skills/medical-certification/SKILL.md",
+      "description": "Use this skill when the user asks about CDL driver medical certification \u2014 49 CFR 391.41-49 medical qualifications, medical examiner's certificate (Long Form 5876 + Short Form 5875), National Registry of Certified Medical Examiners (NRCME),\u2026"
+    },
+    {
+      "name": "mvr-and-monitoring",
+      "path": "skills/mvr-and-monitoring/SKILL.md",
+      "description": "Use this skill when the user asks about Motor Vehicle Records (MVRs), 49 CFR 391.25 annual MVR review, continuous MVR monitoring services (SambaSafety, Foley, etc.), state MVR fees, what to look for on an MVR, CDLIS (Commercial Driver Licen\u2026"
+    },
+    {
+      "name": "operating-authority-and-registration",
+      "path": "skills/operating-authority-and-registration/SKILL.md",
+      "description": "Use this skill when the user asks about getting/maintaining motor carrier operating authority \u2014 USDOT number, MC number, BOC-3 process agent, insurance filing (MCS-90, BMC-91/91X), Unified Carrier Registration (UCR), International Registrat\u2026"
+    },
+    {
+      "name": "vehicle-inspection-dvir",
+      "path": "skills/vehicle-inspection-dvir/SKILL.md",
+      "description": "Use this skill when the user asks about CMV vehicle inspections under 49 CFR 396 \u2014 DVIRs (Driver Vehicle Inspection Reports), pre-trip inspections, post-trip inspections, periodic inspections, annual inspections, who can perform inspections\u2026"
+    },
+    {
+      "name": "vehicle-maintenance-records",
+      "path": "skills/vehicle-maintenance-records/SKILL.md",
+      "description": "Use this skill when the user asks about CMV maintenance program requirements under 49 CFR 396.3 \u2014 what records must be kept, retention periods (12-18 months on vehicle file + 1 year after disposal), what counts as systematic inspection/repa\u2026"
+    }
+  ]
+}
