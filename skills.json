@@ -1,7 +1,7 @@
 {
   "name": "x3fleetsafety/skills",
   "description": "Open-source Agent Skills for DOT / FMCSA compliance + fleet operations",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "license": "Apache-2.0",
   "author": "X3 Fleet Safety <joshua@x3fleetsafety.com>",
   "homepage": "https://x3fleetsafety.com",
@@ -361,6 +361,81 @@
       "name": "workers-comp-for-trucking",
       "path": "skills/workers-comp-for-trucking/SKILL.md",
       "description": "Use this skill when the user asks about workers compensation for trucking \u2014 required by state law, classification of drivers, premium calculation (rate \u00d7 experience modifier \u00d7 payroll), Common Claim types in trucking, returning injured driv\u2026"
+    },
+    {
+      "name": "owner-operator-vs-company-driver-economics",
+      "tier": "Tier 11 \u2014 Driver Lifecycle & Operations",
+      "description": "Economic comparison: O/O vs company-driver gross, net, take-home"
+    },
+    {
+      "name": "team-driving-operations",
+      "tier": "Tier 11 \u2014 Driver Lifecycle & Operations",
+      "description": "Team driving setup, pay structure, equipment, productivity math"
+    },
+    {
+      "name": "dedicated-vs-otr-vs-regional-comparisons",
+      "tier": "Tier 11 \u2014 Driver Lifecycle & Operations",
+      "description": "Dedicated lane vs OTR vs regional \u2014 tradeoffs and economics"
+    },
+    {
+      "name": "owner-operator-tax-and-deductions",
+      "tier": "Tier 11 \u2014 Driver Lifecycle & Operations",
+      "description": "Per diem, depreciation, S-corp, retirement plans for O/Os"
+    },
+    {
+      "name": "fmcsa-driver-disqualification-and-reinstatement",
+      "tier": "Tier 11 \u2014 Driver Lifecycle & Operations",
+      "description": "DQ triggers, SAP process, reinstatement workflow"
+    },
+    {
+      "name": "fuel-management-and-mpg-optimization",
+      "tier": "Tier 11 \u2014 Driver Lifecycle & Operations",
+      "description": "MPG levers, driver behavior, fuel surcharge math"
+    },
+    {
+      "name": "tire-management-program",
+      "tier": "Tier 11 \u2014 Driver Lifecycle & Operations",
+      "description": "CPM, retreading, position management, blowout prevention"
+    },
+    {
+      "name": "fleet-fuel-card-programs",
+      "tier": "Tier 11 \u2014 Driver Lifecycle & Operations",
+      "description": "Comdata vs EFS vs WEX, fraud controls, IFTA capture"
+    },
+    {
+      "name": "seasonal-operations-winter-summer",
+      "tier": "Tier 11 \u2014 Driver Lifecycle & Operations",
+      "description": "Chain laws, anti-gel, summer tire failures, freight cycles"
+    },
+    {
+      "name": "tractor-spec-options",
+      "tier": "Tier 11 \u2014 Driver Lifecycle & Operations",
+      "description": "Engine, transmission, axle ratio, sleeper, fuel tanks, resale"
+    },
+    {
+      "name": "trailer-types-and-specifications",
+      "tier": "Tier 11 \u2014 Driver Lifecycle & Operations",
+      "description": "Dry van, reefer, flatbed, step-deck, tanker, lowboy"
+    },
+    {
+      "name": "samsara-vs-motive-vs-geotab-comparison",
+      "tier": "Tier 11 \u2014 Driver Lifecycle & Operations",
+      "description": "ELD/telematics vendor comparison"
+    },
+    {
+      "name": "driver-mobile-apps-comparison",
+      "tier": "Tier 11 \u2014 Driver Lifecycle & Operations",
+      "description": "Load boards, nav, parking, per diem apps"
+    },
+    {
+      "name": "trucker-mental-health-resources",
+      "tier": "Tier 11 \u2014 Driver Lifecycle & Operations",
+      "description": "Crisis lines, EAP design, sleep apnea, isolation"
+    },
+    {
+      "name": "customer-rfp-response-process",
+      "tier": "Tier 11 \u2014 Driver Lifecycle & Operations",
+      "description": "Bid process, lane analysis, pricing strategy, EDI"
     }
   ]
 }
