@@ -113,6 +113,17 @@ Niche operations + reference: oilfield, HHG movers, reefer, oversize, logging, t
 - [**fmcsa-portal-navigation**](./skills/fmcsa-portal-navigation/SKILL.md) — Where to find what: SAFER, CSA, PSP, Clearinghouse, DataQs, MCS-150, hotlines, field offices.
 - [**broker-and-freight-forwarder-distinctions**](./skills/broker-and-freight-forwarder-distinctions/SKILL.md) — 49 CFR 371 + 373. Authority, bonds (BMC-84, BMC-85), double brokering, broker-carrier agreements.
 
+### Tier 8 — Business operations & people (new in v0.7.0)
+The corporate side of trucking: investigations, M&A, accommodation, recruiting, environmental.
+
+- [**driver-leasing-arrangements**](./skills/driver-leasing-arrangements/SKILL.md) — IC vs Employee, DOL 2024 6-factor test, CA AB5 + FAAAA preemption, lease-purchase pitfalls, settlement statements.
+- [**dot-investigation-types**](./skills/dot-investigation-types/SKILL.md) — NESA vs CR vs Focused vs Off-Site vs Comprehensive Review. Triggers, scope, outcomes, civil penalty ranges.
+- [**ehs-emergency-environmental**](./skills/ehs-emergency-environmental/SKILL.md) — Fuel spills, hazmat release, EPA + state reporting, NRC, CHEMTREC, environmental impairment liability insurance.
+- [**fmcsa-grants-and-funding**](./skills/fmcsa-grants-and-funding/SKILL.md) — MCSAP, CMV-DAP apprenticeships, High Priority Grants, WIOA, GI Bill, SBA loans for trucks.
+- [**carrier-mergers-and-acquisitions**](./skills/carrier-mergers-and-acquisitions/SKILL.md) — Valuation drivers, asset vs stock purchase, authority transfer, due diligence checklist.
+- [**ada-employment-for-drivers**](./skills/ada-employment-for-drivers/SKILL.md) — ADA + DOT medical interaction, essential functions, accommodation examples, drug + alcohol carve-outs.
+- [**recruiting-and-driver-acquisition**](./skills/recruiting-and-driver-acquisition/SKILL.md) — Sourcing channels, application screening, signing + retention bonuses, ambassador programs.
+
 ## Coverage
 
 | Area | Skill | CFR cite |

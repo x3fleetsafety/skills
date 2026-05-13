@@ -1,7 +1,7 @@
 {
   "name": "x3fleetsafety/skills",
   "description": "Open-source Agent Skills for DOT / FMCSA compliance + fleet operations",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "license": "Apache-2.0",
   "author": "X3 Fleet Safety <joshua@x3fleetsafety.com>",
   "homepage": "https://x3fleetsafety.com",
@@ -16,6 +16,11 @@
       "name": "accident-register-and-reporting",
       "path": "skills/accident-register-and-reporting/SKILL.md",
       "description": "Use this skill when the user asks about accident registers, DOT-recordable accident definitions, what counts as a \"reportable accident\" under 49 CFR 390.5 + 390.15, accident register retention, post-accident testing trigger logic, FMCSA acc\u2026"
+    },
+    {
+      "name": "ada-employment-for-drivers",
+      "path": "skills/ada-employment-for-drivers/SKILL.md",
+      "description": "Use this skill when the user asks about Americans with Disabilities Act (ADA) accommodation for CDL drivers \u2014 interaction between ADA + FMCSA medical certification, when DOT-disqualifying conditions trigger ADA analysis, reasonable accommod\u2026"
     },
     {
       "name": "adverse-action-prep",
@@ -46,6 +51,11 @@
       "name": "cargo-securement",
       "path": "skills/cargo-securement/SKILL.md",
       "description": "Use this skill when the user asks about cargo securement requirements under 49 CFR 393 Subpart I \u2014 Working Load Limit (WLL), tiedown counts, tiedown types, commodity-specific securement rules (lumber, metal coils, paper rolls, concrete pipe\u2026"
+    },
+    {
+      "name": "carrier-mergers-and-acquisitions",
+      "path": "skills/carrier-mergers-and-acquisitions/SKILL.md",
+      "description": "Use this skill when the user asks about buying or selling a trucking company \u2014 valuation drivers (revenue, fleet age, CSA scores, customer concentration), asset purchase vs stock purchase, FMCSA authority transfer, due diligence checklist, \u2026"
     },
     {
       "name": "cdl-classes-and-endorsements",
@@ -83,9 +93,19 @@
       "description": "Use this skill when the user asks anything that touches US Department of Transportation (DOT) or Federal Motor Carrier Safety Administration (FMCSA) regulation for commercial motor vehicles (CMVs) \u2014 including who's regulated, MC vs DOT numb\u2026"
     },
     {
+      "name": "dot-investigation-types",
+      "path": "skills/dot-investigation-types/SKILL.md",
+      "description": "Use this skill when the user asks about FMCSA investigation types \u2014 Focused Investigation vs Comprehensive Review vs Compliance Review (CR) vs Investigation, when each is triggered, scope differences, on-site vs off-site, and how to prepare\u2026"
+    },
+    {
       "name": "dot-physical-exam-decoder",
       "path": "skills/dot-physical-exam-decoder/SKILL.md",
       "description": "Use this skill when the user asks how to interpret a DOT medical examiner's findings \u2014 what restrictions mean (corrective lenses, hearing aid, no insulin, etc.), what conditions trigger short-term vs 24-month certificates, vision/hearing th\u2026"
+    },
+    {
+      "name": "driver-leasing-arrangements",
+      "path": "skills/driver-leasing-arrangements/SKILL.md",
+      "description": "Use this skill when the user asks about carrier-driver relationships \u2014 Independent Contractor (IC / 1099) vs Employee (W-2), Owner-Operator lease agreements, the AB5 California law, the DOL 2024 IC test, lease-purchase programs from the car\u2026"
     },
     {
       "name": "driver-onboarding-process",
@@ -113,6 +133,11 @@
       "description": "Use this skill when the user asks about commercial driver drug & alcohol testing under 49 CFR 382 + 40 \u2014 the six testing reasons (pre-employment, random, post-accident, reasonable suspicion, return-to-duty, follow-up), MRO process, SAP/retu\u2026"
     },
     {
+      "name": "ehs-emergency-environmental",
+      "path": "skills/ehs-emergency-environmental/SKILL.md",
+      "description": "Use this skill when the user asks about Environmental Health & Safety (EHS) for trucking \u2014 fuel spill response, hazmat release reporting, EPA + state environmental reporting, emergency contact information (CHEMTREC), environmental impairmen\u2026"
+    },
+    {
       "name": "eld-mandate-compliance",
       "path": "skills/eld-mandate-compliance/SKILL.md",
       "description": "Use this skill when the user asks about Electronic Logging Device (ELD) compliance under 49 CFR 395.20-38 \u2014 ELD mandate, AOBRD vs ELD transition, ELD exemptions, ELD malfunctions, 8-day paper backup, ELD certification on FMCSA registered li\u2026"
@@ -131,6 +156,11 @@
       "name": "fmcsa-clearinghouse-workflow",
       "path": "skills/fmcsa-clearinghouse-workflow/SKILL.md",
       "description": "Use this skill when the user asks about the FMCSA Drug & Alcohol Clearinghouse \u2014 full vs limited query, pre-employment vs annual query, query credit purchasing, who has access (employers, drivers, MROs, SAPs, state licensing agencies), repo\u2026"
+    },
+    {
+      "name": "fmcsa-grants-and-funding",
+      "path": "skills/fmcsa-grants-and-funding/SKILL.md",
+      "description": "Use this skill when the user asks about FMCSA financial assistance + grants \u2014 Motor Carrier Safety Assistance Program (MCSAP), High Priority Grants, CMV Operator Apprenticeship Program (CMV-DAP), workforce development funding, hazmat prepar\u2026"
     },
     {
       "name": "fmcsa-portal-navigation",
@@ -211,6 +241,11 @@
       "name": "preventive-maintenance-program-design",
       "path": "skills/preventive-maintenance-program-design/SKILL.md",
       "description": "Use this skill when the user asks how to design or improve a Preventive Maintenance (PM) program for a fleet \u2014 mileage vs time intervals, A/B/C/D inspection levels, ATA standards, common PM tasks, scheduling software, cost tracking, and how\u2026"
+    },
+    {
+      "name": "recruiting-and-driver-acquisition",
+      "path": "skills/recruiting-and-driver-acquisition/SKILL.md",
+      "description": "Use this skill when the user asks how to recruit CDL drivers \u2014 sourcing channels (CDL schools, job boards, military, returning citizens, owner-operator pools), application + screening process, signing bonus structures, recruitment marketing\u2026"
     },
     {
       "name": "refrigerated-cargo-specifics",
