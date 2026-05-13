@@ -1,7 +1,7 @@
 {
   "name": "x3fleetsafety/skills",
   "description": "Open-source Agent Skills for DOT / FMCSA compliance + fleet operations",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "license": "Apache-2.0",
   "author": "X3 Fleet Safety <joshua@x3fleetsafety.com>",
   "homepage": "https://x3fleetsafety.com",
@@ -31,6 +31,11 @@
       "name": "bobtail-deadhead-loaded-distinctions",
       "path": "skills/bobtail-deadhead-loaded-distinctions/SKILL.md",
       "description": "Use this skill when the user asks about trucking terminology \u2014 bobtail vs deadhead vs loaded vs empty trailer \u2014 and the insurance, weight, and fuel-tax implications of each. Covers bobtail insurance (also called non-trucking liability), how\u2026"
+    },
+    {
+      "name": "broker-and-freight-forwarder-distinctions",
+      "path": "skills/broker-and-freight-forwarder-distinctions/SKILL.md",
+      "description": "Use this skill when the user asks the difference between a freight broker, freight forwarder, and motor carrier (49 CFR 371 + 373) \u2014 required authority for each, bond requirements (BMC-84 broker bond, BMC-85 freight forwarder bond), broker-\u2026"
     },
     {
       "name": "canada-cross-border-operations",
@@ -128,6 +133,11 @@
       "description": "Use this skill when the user asks about the FMCSA Drug & Alcohol Clearinghouse \u2014 full vs limited query, pre-employment vs annual query, query credit purchasing, who has access (employers, drivers, MROs, SAPs, state licensing agencies), repo\u2026"
     },
     {
+      "name": "fmcsa-portal-navigation",
+      "path": "skills/fmcsa-portal-navigation/SKILL.md",
+      "description": "Use this skill when the user asks where to find specific information at fmcsa.dot.gov \u2014 the SAFER (Safety and Fitness Electronic Records System), Carrier Snapshot, Compliance Safety Accountability (CSA) data, PSP (Pre-Employment Screening P\u2026"
+    },
+    {
       "name": "hazmat-basics",
       "path": "skills/hazmat-basics/SKILL.md",
       "description": "Use this skill when the user asks about hazardous materials (hazmat) transportation under 49 CFR 171-180 \u2014 placarding requirements, segregation tables, hazmat employee training (49 CFR 172 Subpart H), Hazmat Safety Permit (HMSP), shipping p\u2026"
@@ -138,6 +148,11 @@
       "description": "Use this skill when the user asks about Hours of Service (HOS) rules under 49 CFR 395 \u2014 the 11-hour driving limit, 14-hour on-duty window, 60/70 hour rule, 30-minute break, 10-hour off-duty reset, 34-hour restart, sleeper berth provisions, \u2026"
     },
     {
+      "name": "household-goods-mover-rules",
+      "path": "skills/household-goods-mover-rules/SKILL.md",
+      "description": "Use this skill when the user asks about Household Goods (HHG) movers \u2014 49 CFR 375 + 376 consumer protection rules, FMCSA HHG-specific authority, mover certification, binding vs non-binding estimates, dispute resolution, weight ticket requir\u2026"
+    },
+    {
       "name": "ifta-quarterly-prep",
       "path": "skills/ifta-quarterly-prep/SKILL.md",
       "description": "Use this skill when the user asks about International Fuel Tax Agreement (IFTA) compliance \u2014 quarterly returns, jurisdiction reporting, fuel + miles reconciliation, IFTA-100/101 forms, base jurisdiction selection, IFTA license + decals, rec\u2026"
@@ -146,6 +161,11 @@
       "name": "intrastate-vs-interstate-decoder",
       "path": "skills/intrastate-vs-interstate-decoder/SKILL.md",
       "description": "Use this skill when the user asks how to determine whether a CMV operation is interstate vs intrastate, why it matters (federal vs state rules apply), the \"continuation of journey\" rule, state-specific intrastate exemptions, and what happen\u2026"
+    },
+    {
+      "name": "log-hauling-operations",
+      "path": "skills/log-hauling-operations/SKILL.md",
+      "description": "Use this skill when the user asks about logging / log hauling operations \u2014 short-haul exemption specifics for logging, log truck securement, axle weights, state-by-state logging permits (especially OR, WA, ID, BC), bunk + stake configuratio\u2026"
     },
     {
       "name": "medical-certification",
@@ -168,9 +188,19 @@
       "description": "Use this skill when the user asks specifically about preparing for the New Entrant Safety Audit (NESA) under 49 CFR 385 Subpart D \u2014 different from a Compliance Review. Covers what auditors look at, the 18-month window, automatic failure con\u2026"
     },
     {
+      "name": "oilfield-operations",
+      "path": "skills/oilfield-operations/SKILL.md",
+      "description": "Use this skill when the user asks about CMV oilfield operations \u2014 the 24-hour restart exemption (49 CFR 395.1(d)), oilfield-specific HOS rules, hot oil hauling, specialty equipment (winch trucks, kill trucks, frac sand haulers, water hauler\u2026"
+    },
+    {
       "name": "operating-authority-and-registration",
       "path": "skills/operating-authority-and-registration/SKILL.md",
       "description": "Use this skill when the user asks about getting/maintaining motor carrier operating authority \u2014 USDOT number, MC number, BOC-3 process agent, insurance filing (MCS-90, BMC-91/91X), Unified Carrier Registration (UCR), International Registrat\u2026"
+    },
+    {
+      "name": "oversize-overweight-permits",
+      "path": "skills/oversize-overweight-permits/SKILL.md",
+      "description": "Use this skill when the user asks about oversize / overweight load permits \u2014 state-by-state permitting process, escort vehicle (pilot car) requirements, route surveys, federal axle weight limits (Federal Bridge Formula), holiday restriction\u2026"
     },
     {
       "name": "passenger-carrier-specifics",
@@ -181,6 +211,11 @@
       "name": "preventive-maintenance-program-design",
       "path": "skills/preventive-maintenance-program-design/SKILL.md",
       "description": "Use this skill when the user asks how to design or improve a Preventive Maintenance (PM) program for a fleet \u2014 mileage vs time intervals, A/B/C/D inspection levels, ATA standards, common PM tasks, scheduling software, cost tracking, and how\u2026"
+    },
+    {
+      "name": "refrigerated-cargo-specifics",
+      "path": "skills/refrigerated-cargo-specifics/SKILL.md",
+      "description": "Use this skill when the user asks about refrigerated (reefer) trucking \u2014 cold chain compliance, FDA temperature recording requirements, Sanitary Transportation Rule (STR / 21 CFR 1.900-1.934), commodity-specific temperature ranges, refriger\u2026"
     },
     {
       "name": "roadside-inspection-levels",
@@ -196,6 +231,11 @@
       "name": "state-trucking-taxes",
       "path": "skills/state-trucking-taxes/SKILL.md",
       "description": "Use this skill when the user asks about state-specific trucking taxes BEYOND IFTA \u2014 NY Highway Use Tax (HUT), KY Kentucky Intrastate Tax (KIT), Oregon Weight-Mile Tax, New Mexico Weight-Distance Tax, Connecticut Highway Use Fee, or other st\u2026"
+    },
+    {
+      "name": "towing-and-recovery",
+      "path": "skills/towing-and-recovery/SKILL.md",
+      "description": "Use this skill when the user asks about towing + recovery operations \u2014 separate FMCSA authority class, light-duty vs medium-duty vs heavy-duty wrecker rules, AAA + AAA-Plus contracts, Roadside-Assistance (RA) operations, \"non-consensual tow\u2026"
     },
     {
       "name": "truck-financing-and-leasing",

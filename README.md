@@ -101,6 +101,18 @@ The deepest layer: international ops, driver pay, accident investigation, financ
 - [**truck-financing-and-leasing**](./skills/truck-financing-and-leasing/SKILL.md) — Conventional loan, TRAC lease, lease-purchase, factoring. Section 179 + Bonus Depreciation. Fuel surcharge math.
 - [**driver-wellness-and-retention**](./skills/driver-wellness-and-retention/SKILL.md) — Why drivers leave, wellness programs, home-time policies, detention pay, mental health, retention bonuses + onboarding.
 
+### Tier 7 — Specialty operations & FMCSA navigation (new in v0.6.0)
+Niche operations + reference: oilfield, HHG movers, reefer, oversize, logging, towing, broker vs FF vs carrier.
+
+- [**oilfield-operations**](./skills/oilfield-operations/SKILL.md) — 24-hour restart exemption (49 CFR 395.1(d)), waiting time off-duty, hot oil hauling, frac sand, water hauling.
+- [**household-goods-mover-rules**](./skills/household-goods-mover-rules/SKILL.md) — 49 CFR 375 consumer protection, binding estimates, weight tickets, valuation coverage.
+- [**refrigerated-cargo-specifics**](./skills/refrigerated-cargo-specifics/SKILL.md) — FDA Sanitary Transportation Rule (21 CFR 1.900-1.934), temperature recording, cold chain claims.
+- [**oversize-overweight-permits**](./skills/oversize-overweight-permits/SKILL.md) — Federal limits, state-by-state permits, pilot car requirements, route surveys, holiday restrictions.
+- [**log-hauling-operations**](./skills/log-hauling-operations/SKILL.md) — 49 CFR 393.116-118 log securement, state forestry permits, short-haul exemption applicability.
+- [**towing-and-recovery**](./skills/towing-and-recovery/SKILL.md) — Equipment classes (light/medium/heavy/rotator), consensual vs non-consensual tows, state PUC rules.
+- [**fmcsa-portal-navigation**](./skills/fmcsa-portal-navigation/SKILL.md) — Where to find what: SAFER, CSA, PSP, Clearinghouse, DataQs, MCS-150, hotlines, field offices.
+- [**broker-and-freight-forwarder-distinctions**](./skills/broker-and-freight-forwarder-distinctions/SKILL.md) — 49 CFR 371 + 373. Authority, bonds (BMC-84, BMC-85), double brokering, broker-carrier agreements.
+
 ## Coverage
 
 | Area | Skill | CFR cite |
