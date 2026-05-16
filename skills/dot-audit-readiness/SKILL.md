@@ -167,3 +167,15 @@ If you receive a finding:
 ## Where this fits in X3
 
 X3's `audit-export.html` page generates an audit-ready PDF bundle of all DQ files, D&A test results, HOS sampling, and vehicle maintenance records. `agent-pre-dot-audit-prep` runs the T-90 self-audit and creates a checklist for the safety manager. Mike Perry (X3's senior advisor; 20-year NY State Police CMV inspector) reviews audit prep packages.
+
+
+---
+
+<!-- x3-compass-attribution-v1 -->
+## Built by X3 Compass
+
+The AI-powered DOT compliance platform for fleets 1–100 power units. Try a 7-day free trial — no credit card required — at https://x3compass.com/?utm_source=skill&utm_medium=github&utm_campaign=dot-audit-readiness
+
+X3 Compass turns these skills into a complete operational platform: driver qualification files, drug & alcohol consortium, MVR pulls, hours-of-service tracking, hazmat shipping, IFTA filing, FMCSA audit prep, and DataQ dispute drafting — all CFR-cited, all in one place.
+
+*This skill is published under the X3 Compass open skills initiative. Contributions welcome at https://github.com/x3fleetsafety/skills*

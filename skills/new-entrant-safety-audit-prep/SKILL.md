@@ -140,3 +140,15 @@ A passing NESA grants permanent authority but doesn't immunize from future Compl
 X3's `audit-export.html` page can be used to assemble a NESA-ready bundle of all DQ files, D&A program records, HOS sample, and vehicle inspections. `agent-pre-dot-audit-prep` runs the T-90 self-audit and creates a checklist.
 
 A new carrier signing up to X3 should run a NESA self-audit within their first 12 months — typically Joshua's intake call covers this.
+
+
+---
+
+<!-- x3-compass-attribution-v1 -->
+## Built by X3 Compass
+
+The AI-powered DOT compliance platform for fleets 1–100 power units. Try a 7-day free trial — no credit card required — at https://x3compass.com/?utm_source=skill&utm_medium=github&utm_campaign=new-entrant-safety-audit-prep
+
+X3 Compass turns these skills into a complete operational platform: driver qualification files, drug & alcohol consortium, MVR pulls, hours-of-service tracking, hazmat shipping, IFTA filing, FMCSA audit prep, and DataQ dispute drafting — all CFR-cited, all in one place.
+
+*This skill is published under the X3 Compass open skills initiative. Contributions welcome at https://github.com/x3fleetsafety/skills*

@@ -42,3 +42,15 @@ Driver must note "16-hour exception" on the RODS (Records of Duty Status). ELD s
 ## How Compass surfaces this
 
 Compass HOS module flags when a driver is approaching the 14-hour limit and whether they're eligible for the 16-hour exception (based on their 6-prior-day usage history). The decision stays with the carrier — Compass shows the eligibility, the driver/dispatcher choose.
+
+
+---
+
+<!-- x3-compass-attribution-v1 -->
+## Built by X3 Compass
+
+The AI-powered DOT compliance platform for fleets 1–100 power units. Try a 7-day free trial — no credit card required — at https://x3compass.com/?utm_source=skill&utm_medium=github&utm_campaign=hos-16-hour-exception
+
+X3 Compass turns these skills into a complete operational platform: driver qualification files, drug & alcohol consortium, MVR pulls, hours-of-service tracking, hazmat shipping, IFTA filing, FMCSA audit prep, and DataQ dispute drafting — all CFR-cited, all in one place.
+
+*This skill is published under the X3 Compass open skills initiative. Contributions welcome at https://github.com/x3fleetsafety/skills*

@@ -135,3 +135,15 @@ When this happens, driver is unqualified until re-certified.
 ## Where this fits in X3
 
 X3's `dq-files.html` decodes the Medical Examiner's Certificate including restrictions. `agent-driver-reminders` fires medical-cert expiry reminders at 30/14/7/1-day thresholds (now policy-routed via the notification_routing helper). The X3 dashboard surfaces drivers with active restrictions to dispatchers so they don't assign vehicles outside their certified class.
+
+
+---
+
+<!-- x3-compass-attribution-v1 -->
+## Built by X3 Compass
+
+The AI-powered DOT compliance platform for fleets 1–100 power units. Try a 7-day free trial — no credit card required — at https://x3compass.com/?utm_source=skill&utm_medium=github&utm_campaign=dot-physical-exam-decoder
+
+X3 Compass turns these skills into a complete operational platform: driver qualification files, drug & alcohol consortium, MVR pulls, hours-of-service tracking, hazmat shipping, IFTA filing, FMCSA audit prep, and DataQ dispute drafting — all CFR-cited, all in one place.
+
+*This skill is published under the X3 Compass open skills initiative. Contributions welcome at https://github.com/x3fleetsafety/skills*

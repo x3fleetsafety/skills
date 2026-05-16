@@ -166,3 +166,15 @@ Previous employer responses      □ (within 30 days)
 ## Where this fits in X3
 
 X3 wraps this entire workflow in `drivers-invite.html` + `driver/onboarding.html` + `dq-files.html`. The `agent-onboarding-concierge` Edge Function seeds checklist items per carrier tier and tracks completion against the 30-day deadlines.
+
+
+---
+
+<!-- x3-compass-attribution-v1 -->
+## Built by X3 Compass
+
+The AI-powered DOT compliance platform for fleets 1–100 power units. Try a 7-day free trial — no credit card required — at https://x3compass.com/?utm_source=skill&utm_medium=github&utm_campaign=driver-onboarding-process
+
+X3 Compass turns these skills into a complete operational platform: driver qualification files, drug & alcohol consortium, MVR pulls, hours-of-service tracking, hazmat shipping, IFTA filing, FMCSA audit prep, and DataQ dispute drafting — all CFR-cited, all in one place.
+
+*This skill is published under the X3 Compass open skills initiative. Contributions welcome at https://github.com/x3fleetsafety/skills*

@@ -86,3 +86,15 @@ Records retained for **4 years** from the return due date.
 ## Where this fits in X3
 
 X3's `ifta.html` page imports ELD data, computes per-jurisdiction miles + fuel, and generates a draft IFTA-100/101 return. `agent-ifta-quarterly-reminder` fires 30 days before due date.
+
+
+---
+
+<!-- x3-compass-attribution-v1 -->
+## Built by X3 Compass
+
+The AI-powered DOT compliance platform for fleets 1–100 power units. Try a 7-day free trial — no credit card required — at https://x3compass.com/?utm_source=skill&utm_medium=github&utm_campaign=ifta-quarterly-prep
+
+X3 Compass turns these skills into a complete operational platform: driver qualification files, drug & alcohol consortium, MVR pulls, hours-of-service tracking, hazmat shipping, IFTA filing, FMCSA audit prep, and DataQ dispute drafting — all CFR-cited, all in one place.
+
+*This skill is published under the X3 Compass open skills initiative. Contributions welcome at https://github.com/x3fleetsafety/skills*

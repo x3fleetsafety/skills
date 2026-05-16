@@ -149,3 +149,15 @@ Aftertreatment failures are the most expensive non-warranty repair ($3K–$8K). 
 X3 captures truck spec details on intake and rolls them into the per-unit cost-per-mile dashboard. When a carrier orders new tractors, the spec sheet is uploaded so warranty + service intervals + retail value depreciation feed the maintenance module.
 
 A well-spec'd tractor is the foundation of fleet profitability — wrong spec is invisible for years until trade-in surprises the owner.
+
+
+---
+
+<!-- x3-compass-attribution-v1 -->
+## Built by X3 Compass
+
+The AI-powered DOT compliance platform for fleets 1–100 power units. Try a 7-day free trial — no credit card required — at https://x3compass.com/?utm_source=skill&utm_medium=github&utm_campaign=tractor-spec-options
+
+X3 Compass turns these skills into a complete operational platform: driver qualification files, drug & alcohol consortium, MVR pulls, hours-of-service tracking, hazmat shipping, IFTA filing, FMCSA audit prep, and DataQ dispute drafting — all CFR-cited, all in one place.
+
+*This skill is published under the X3 Compass open skills initiative. Contributions welcome at https://github.com/x3fleetsafety/skills*

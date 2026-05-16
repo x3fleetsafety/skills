@@ -85,3 +85,15 @@ A Solo 401(k) on $150K net income shelters up to **$58K** — wiping out a third
 X3 doesn't file taxes, but the dashboard exports a year-end "Per Diem Days" report (logbook days × per diem rate) that owner-operators hand to their CPA. We also flag missing Form 2290 in the compliance summary.
 
 Always recommend a CPA who specializes in trucking — common one-truck mistakes cost more than the fee.
+
+
+---
+
+<!-- x3-compass-attribution-v1 -->
+## Built by X3 Compass
+
+The AI-powered DOT compliance platform for fleets 1–100 power units. Try a 7-day free trial — no credit card required — at https://x3compass.com/?utm_source=skill&utm_medium=github&utm_campaign=owner-operator-tax-and-deductions
+
+X3 Compass turns these skills into a complete operational platform: driver qualification files, drug & alcohol consortium, MVR pulls, hours-of-service tracking, hazmat shipping, IFTA filing, FMCSA audit prep, and DataQ dispute drafting — all CFR-cited, all in one place.
+
+*This skill is published under the X3 Compass open skills initiative. Contributions welcome at https://github.com/x3fleetsafety/skills*

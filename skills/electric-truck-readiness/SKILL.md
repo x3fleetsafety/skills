@@ -180,3 +180,15 @@ Hydrogen may be the long-haul OTR answer when fueling network builds. 2027–203
 X3's fleet planning module includes an EV readiness assessment — lane-by-lane mileage profile, return-to-base analysis, utility lead-time tracking, subsidy stack calculator, and TCO modeling. Carriers can model EV adoption scenarios against their actual operation before committing capital.
 
 EV adoption is operational, not just procurement. Carriers that plan well will be 2–3 years ahead of competitors by 2028.
+
+
+---
+
+<!-- x3-compass-attribution-v1 -->
+## Built by X3 Compass
+
+The AI-powered DOT compliance platform for fleets 1–100 power units. Try a 7-day free trial — no credit card required — at https://x3compass.com/?utm_source=skill&utm_medium=github&utm_campaign=electric-truck-readiness
+
+X3 Compass turns these skills into a complete operational platform: driver qualification files, drug & alcohol consortium, MVR pulls, hours-of-service tracking, hazmat shipping, IFTA filing, FMCSA audit prep, and DataQ dispute drafting — all CFR-cited, all in one place.
+
+*This skill is published under the X3 Compass open skills initiative. Contributions welcome at https://github.com/x3fleetsafety/skills*

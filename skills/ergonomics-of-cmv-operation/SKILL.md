@@ -210,3 +210,15 @@ X3 tracks driver injury claims as part of the Risk Index. For carriers asking ab
 5. Do you investigate injuries for ergonomic root causes?
 
 Carriers with strong ergonomics programs see 30-50% reduction in WC injury claims + significant retention improvement.
+
+
+---
+
+<!-- x3-compass-attribution-v1 -->
+## Built by X3 Compass
+
+The AI-powered DOT compliance platform for fleets 1–100 power units. Try a 7-day free trial — no credit card required — at https://x3compass.com/?utm_source=skill&utm_medium=github&utm_campaign=ergonomics-of-cmv-operation
+
+X3 Compass turns these skills into a complete operational platform: driver qualification files, drug & alcohol consortium, MVR pulls, hours-of-service tracking, hazmat shipping, IFTA filing, FMCSA audit prep, and DataQ dispute drafting — all CFR-cited, all in one place.
+
+*This skill is published under the X3 Compass open skills initiative. Contributions welcome at https://github.com/x3fleetsafety/skills*

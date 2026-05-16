@@ -177,3 +177,15 @@ Some team drivers are stronger than others. Distribute load between strongest + 
 X3 supports team driving as a configuration: a single vehicle with multiple drivers assigned. HOS tracking handles each driver's individual logs. Pay structure (team-combined or split) handled in payroll.
 
 For a fleet considering team operations: ask about lane mix, customer base, driver demographics, and equipment readiness.
+
+
+---
+
+<!-- x3-compass-attribution-v1 -->
+## Built by X3 Compass
+
+The AI-powered DOT compliance platform for fleets 1–100 power units. Try a 7-day free trial — no credit card required — at https://x3compass.com/?utm_source=skill&utm_medium=github&utm_campaign=team-driving-operations
+
+X3 Compass turns these skills into a complete operational platform: driver qualification files, drug & alcohol consortium, MVR pulls, hours-of-service tracking, hazmat shipping, IFTA filing, FMCSA audit prep, and DataQ dispute drafting — all CFR-cited, all in one place.
+
+*This skill is published under the X3 Compass open skills initiative. Contributions welcome at https://github.com/x3fleetsafety/skills*

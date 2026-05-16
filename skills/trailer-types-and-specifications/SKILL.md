@@ -155,3 +155,15 @@ Adds 1,000–1,800 lb to trailer empty weight. Worth it for LTL or any "no-dock"
 X3 tracks trailer-level utilization, mileage, and maintenance (reefer hours separately for reefer trailers). Trailer-to-tractor matching is recorded so dispatch knows which units can be paired.
 
 Trailer mix should match commodity strategy. Carriers that pick the right type avoid lane lockout when freight shifts; carriers that pick wrong pay it back over the trade cycle.
+
+
+---
+
+<!-- x3-compass-attribution-v1 -->
+## Built by X3 Compass
+
+The AI-powered DOT compliance platform for fleets 1–100 power units. Try a 7-day free trial — no credit card required — at https://x3compass.com/?utm_source=skill&utm_medium=github&utm_campaign=trailer-types-and-specifications
+
+X3 Compass turns these skills into a complete operational platform: driver qualification files, drug & alcohol consortium, MVR pulls, hours-of-service tracking, hazmat shipping, IFTA filing, FMCSA audit prep, and DataQ dispute drafting — all CFR-cited, all in one place.
+
+*This skill is published under the X3 Compass open skills initiative. Contributions welcome at https://github.com/x3fleetsafety/skills*

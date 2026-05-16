@@ -111,3 +111,15 @@ These are SEPARATE from medical cert restrictions but often overlap.
 ## Where this fits in X3
 
 X3's `dq-files.html` tracks CDL class + endorsements + restrictions per driver. Dispatchers see this when assigning vehicles. The hazmat-basics skill cross-references the H endorsement requirements; the medical-certification skill cross-references the V restriction (medical variance).
+
+
+---
+
+<!-- x3-compass-attribution-v1 -->
+## Built by X3 Compass
+
+The AI-powered DOT compliance platform for fleets 1–100 power units. Try a 7-day free trial — no credit card required — at https://x3compass.com/?utm_source=skill&utm_medium=github&utm_campaign=cdl-classes-and-endorsements
+
+X3 Compass turns these skills into a complete operational platform: driver qualification files, drug & alcohol consortium, MVR pulls, hours-of-service tracking, hazmat shipping, IFTA filing, FMCSA audit prep, and DataQ dispute drafting — all CFR-cited, all in one place.
+
+*This skill is published under the X3 Compass open skills initiative. Contributions welcome at https://github.com/x3fleetsafety/skills*

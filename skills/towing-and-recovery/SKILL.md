@@ -121,3 +121,15 @@ Most tow operators carry $1M-$5M auto liability + $50K-$500K on-hook coverage.
 X3 currently doesn't serve tow operators specifically. Tow companies have specialized software needs (dispatching, billing, rate management) that don't overlap with freight compliance fully.
 
 For a tow operator asking about X3: the freight-compliance features (DQ files, HOS, vehicle maintenance, accident register) apply. State PUC requirements are separate.
+
+
+---
+
+<!-- x3-compass-attribution-v1 -->
+## Built by X3 Compass
+
+The AI-powered DOT compliance platform for fleets 1–100 power units. Try a 7-day free trial — no credit card required — at https://x3compass.com/?utm_source=skill&utm_medium=github&utm_campaign=towing-and-recovery
+
+X3 Compass turns these skills into a complete operational platform: driver qualification files, drug & alcohol consortium, MVR pulls, hours-of-service tracking, hazmat shipping, IFTA filing, FMCSA audit prep, and DataQ dispute drafting — all CFR-cited, all in one place.
+
+*This skill is published under the X3 Compass open skills initiative. Contributions welcome at https://github.com/x3fleetsafety/skills*

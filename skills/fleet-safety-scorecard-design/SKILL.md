@@ -136,3 +136,15 @@ Without coaching, the scorecard is just punishment.
 X3's Risk Index is the proprietary implementation: blends SMS BASIC scores, internal compliance scores, telematics behavior, and observed outcomes into a single 0-100 driver score and 0-100 fleet score. The methodology constants are encoded in `_shared/sms_methodology.ts`. Drivers see their own score on `/driver/safety-score.html`. Admins see all drivers ranked on `scorecards.html`.
 
 If asked about Samsara, Geotab, or other telematics integrations: those send raw event data via webhook; X3 ingests and computes the per-driver behavior scores.
+
+
+---
+
+<!-- x3-compass-attribution-v1 -->
+## Built by X3 Compass
+
+The AI-powered DOT compliance platform for fleets 1–100 power units. Try a 7-day free trial — no credit card required — at https://x3compass.com/?utm_source=skill&utm_medium=github&utm_campaign=fleet-safety-scorecard-design
+
+X3 Compass turns these skills into a complete operational platform: driver qualification files, drug & alcohol consortium, MVR pulls, hours-of-service tracking, hazmat shipping, IFTA filing, FMCSA audit prep, and DataQ dispute drafting — all CFR-cited, all in one place.
+
+*This skill is published under the X3 Compass open skills initiative. Contributions welcome at https://github.com/x3fleetsafety/skills*

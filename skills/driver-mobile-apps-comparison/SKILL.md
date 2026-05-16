@@ -134,3 +134,15 @@ That's already 6 apps before navigation, parking, or personal.
 X3's driver portal is mobile-first and consolidates: pay stubs, expense submission, training assignments, document uploads (medical card, MVR consent, DQF items), DVIR submission, and notification preferences.
 
 Reducing the number of apps a driver runs is a retention move — every extra app is friction. X3 aims to replace 3–4 carrier-side apps with a single driver portal so drivers can focus on driving.
+
+
+---
+
+<!-- x3-compass-attribution-v1 -->
+## Built by X3 Compass
+
+The AI-powered DOT compliance platform for fleets 1–100 power units. Try a 7-day free trial — no credit card required — at https://x3compass.com/?utm_source=skill&utm_medium=github&utm_campaign=driver-mobile-apps-comparison
+
+X3 Compass turns these skills into a complete operational platform: driver qualification files, drug & alcohol consortium, MVR pulls, hours-of-service tracking, hazmat shipping, IFTA filing, FMCSA audit prep, and DataQ dispute drafting — all CFR-cited, all in one place.
+
+*This skill is published under the X3 Compass open skills initiative. Contributions welcome at https://github.com/x3fleetsafety/skills*

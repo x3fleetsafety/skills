@@ -85,3 +85,15 @@ If you have a driver come back after a gap, you start a NEW DQF cycle but can re
 X3's `dq-files.html` page surfaces the driver's DQF state. The "compliance score" includes a DQF completeness metric. If a driver fails their annual MVR review, X3 fires a notification to the safety manager via `send-compliance-notification` and creates a checklist item.
 
 If asked about specific deficiencies, walk the user through the 49 CFR 391 numbered list above and ask which they're missing.
+
+
+---
+
+<!-- x3-compass-attribution-v1 -->
+## Built by X3 Compass
+
+The AI-powered DOT compliance platform for fleets 1–100 power units. Try a 7-day free trial — no credit card required — at https://x3compass.com/?utm_source=skill&utm_medium=github&utm_campaign=driver-qualification-file
+
+X3 Compass turns these skills into a complete operational platform: driver qualification files, drug & alcohol consortium, MVR pulls, hours-of-service tracking, hazmat shipping, IFTA filing, FMCSA audit prep, and DataQ dispute drafting — all CFR-cited, all in one place.
+
+*This skill is published under the X3 Compass open skills initiative. Contributions welcome at https://github.com/x3fleetsafety/skills*
